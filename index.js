@@ -284,7 +284,8 @@ async function start(prod) {
         url: 'https://api.blendproducer.com/ListingWallet/v1/listing/v2/Wallet/GetWallet?Code=20B6764DB092406D98202C9EA9E79FBE&lang=en',
         headers: {
             'Ocp-Apim-Subscription-Key': 'd8f37f5ef7dc4d27b98be6cdaa5c265c',
-            'Locale': 'en'
+            'Locale': 'en',
+            'Accept-Language': 'en-US,en;'
         }
     };
     const ax = await axios(config);
@@ -369,7 +370,7 @@ function parseJsonToXML(source){
                     parentEle.ele(`longitude`, value.longitude);
                     break;
                 case `price_freq`:
-                    value = (value === 'Venda') ? 'sale' : 'month';
+                    value = (value === 'For Sale') ? 'sale' : 'month';
                     //if(equals(item()?['businessType'], 'For Sale'), 'sale', 'month')
                     parentEle.txt(value);
                     break;
