@@ -1,0 +1,24 @@
+{
+  "name": "convertor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txxxc/convertor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/txxxc/convertor/issues"
+  },
+  "homepage": "https://github.com/txxxc/convertor#readme",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "request": "^2.88.2",
+    "xmlbuilder": "^15.1.1"
+  }
+}
