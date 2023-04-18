@@ -70,7 +70,7 @@ async function start(prod) {
                 "lifeStyleType": "Praia",
                 "viewType": "Mar",
                 "orientationType": "Sul/Nascente",
-                "energyPerformanceCertificateRating": null,
+                "energyPerformanceCertificateRating": "exempt",
                 "videoURL": null,
                 "virtualRealityCode": "https://castlefocus.s3.eu-west-2.amazonaws.com/HWR350541+/index.html",
                 "listingWebSiteMasterUrl": "https://www.century21.pt/ref/C0138-00001",
@@ -383,6 +383,9 @@ function parseJsonToXML(source){
                     parentEle.ele(`plot`, value.plotArea);
                     break;
                 case `energy_rating`:
+                    if(value === `exempt`) {
+                        value = 'X';
+                    }
                     parentEle.ele(`consumption`, value);
                     break;
                 case `url`:
