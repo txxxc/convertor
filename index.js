@@ -33,7 +33,7 @@ async function start(prod) {
                 "hasLift": true,
                 "isGroundFloor": null,
                 "isTopFloor": null,
-                "grossArea": 57.00,
+                "grossArea": 57.92,
                 "netArea": 57.00,
                 "totalBedrooms": 1,
                 "totalWC": 1,
@@ -344,8 +344,8 @@ function parseJsonToXML(source){
         baths,
         //pool: 1,
         surface_area: {
-            grossArea,
-            plotArea
+            grossArea: Math.round(grossArea),
+            plotArea: Math.round(plotArea)
         },
         energy_rating: energyPerformanceCertificateRating,
         url: listingWebSiteMasterUrl,
@@ -392,10 +392,14 @@ function parseJsonToXML(source){
                     parentEle.ele(`es`, value);
                     break;
                 case `images`:
+                    let i = 0;
                     for (let image of value) {
-                        parentEle.ele(`image`, {
-                            id: image.orderNumber
-                        }).ele(`url`, image.fileName.split("?")[0]);
+                        i++;
+                        if(i < 50) {
+                            parentEle.ele(`image`, {
+                                id: image.orderNumber
+                            }).ele(`url`, image.fileName.split("?")[0]);
+                        }
                     }
                     break;
                 default:
