@@ -1,8 +1,5 @@
 const builder = require('xmlbuilder');
 var http = require('http');
-
-//create a server object:
-
 let source = `
 {
     "pageIndex": 1,
@@ -199,9 +196,6 @@ const updatedProducts = json.map(({
     images: propertyPhotoList
 }));
 var root = builder.create('root').ele(`kyero`).ele(`feed_version`,3).up().up().ele(`property`);
-
-
-
 for (const item of updatedProducts) {
     for (let [key,value] of Object.entries(item)) {
         let parentEle = root.ele(`${key}`);
@@ -233,7 +227,6 @@ for (const item of updatedProducts) {
                 break;
             case `images`:
                 for(let image of value) {
-                    console.log(image);
                     parentEle.ele(`image`,{id:image.orderNumber}).ele(`url`,  image.fileName.split("?")[0]);
                 }
                 break;
@@ -252,49 +245,7 @@ var xml = root.end({ pretty: true});
 //console.log(xml);
 
 http.createServer(function (req, res) {
+    res.writeHead(200, { 'Content-Type': 'application/xml' });
     res.write(xml); //write a response to the client
     res.end(); //end the response
   }).listen(8080);
-
-return;
-
-const replaceData = {
-    propertyId: {value:"id", map:true},
-    contractNumber: {value:"ref", map:true},
-    price: {value:"price", map:true}
-}
-
-const format = [
-    {key: "id", replace:"propertyId",map:true},
-    {key: "date", replace:"2013-09-27 12:00:10",map:false},
-    {key: "ref", replace:"contractNumber",map:true},
-    {key: "price", replace:"price",map:true},
-    {key: "currency", replace:"EUR",map:false},
-];
-
-
-
-var root = builder.create('property');
-for (const item of json) {
-    // console.log(item);
-    console.log(format);
-    for (let ite of format) {
-        console.log(ite.key, item[ite.replace]);
-        if(ite.map) {
-            root.ele(`${ite.key}`, `${item[ite.replace]}`); 
-        } else {
-            root.ele(`${ite.key}`, `${ite.replace}`); 
-        }
-    }
-    // for (let [key,value] of Object.entries(item)) {
-    //     if(Object.keys(replaceData).includes(key)) {
-    //         key = replaceData[key].value;
-    //         root.ele(`${key}`, `${value}`);
-    //     }
-    // }
-}
-
-var xml = root.end({ pretty: true});
-console.log(xml);
-
-// console.log(json);
