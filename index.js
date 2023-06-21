@@ -33,6 +33,7 @@ app.get('/', async (request, response) => {
     prod = url.parse(request.url, true).query['production'];
     if (prod === undefined) prod = `true`;
     let json = await fetchAllPages(prod);
+    console.log(json);
     response.writeHead(200, {
         'Content-Type': 'application/xml'
     });
@@ -58,17 +59,21 @@ async function fetchAllPages(prod) {
             'Accept-Language': 'en-US,en;'
         }
     };
-    let i = 1;
     do {
         const ax = await axios(config);
         const data = ax.data;
+        console.log(data.errors[0]);
         url = null;
         if (Number(data.pageIndex) < Number(data.totalPages)) {
             url = host + `pageIndex=` + (Number(data.pageIndex)+1);
             console.log(url);
         }
         config.url = url;
-        results.push(...ax.data.items);
+        if(ax.data.items) {
+            results.push(...ax.data.items);
+        }
+        
+
     } while (url);
     return results;
 }
@@ -150,7 +155,6 @@ function parseJsonToXML(source) {
                     parentEle.txt(value);
                     break;
                 case `price`:
-                    console.log(value);
                     if(value === null) {
                         parentEle.txt(`x`);
                     } else {
