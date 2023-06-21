@@ -1,0 +1,2702 @@
+{
+    "pageIndex": 2,
+    "totalPages": 2,
+    "totalCount": 19,
+    "pageSize": 10,
+    "hasPagingData": true,
+    "items": [
+        {
+            "prospectSellerId": 2303008,
+            "prospectStatus": "Client",
+            "propertyId": 2887283,
+            "contractNumber": "C0138-00002",
+            "price": 334000.0,
+            "businessType": "For Sale",
+            "propertyType": "Homes",
+            "propertySubType": "Floor",
+            "propertyTitlePT": null,
+            "propertyDescriptionPT": null,
+            "propertyTitleES": "Fantástico apartamento en el Mirador de Calpe",
+            "propertyDescriptionES": "Mirador de Calpe es un edificio en segunda línea de la playa del Arenal, construido hace dos años. \n\nCuenta con piscina, pista de pádel, amplios ascensores, etc. \n\nEl apartamento cuenta con tres dormitorios, dos cuartos de baño, un amplio salón, cocina, una terraza acristalada en la parte frontal y otro balcón en la parte trasera. \n\nDisfruta de unas bonitas vistas al mar, y está a dos minutos caminando de la arena. \n\nEl apartamento cuenta con una plaza de parking y un trastero. \n\n",
+            "propertyTitleEN": "Fantastic apartment in the Mirador de Calpe",
+            "propertyDescriptionEN": "Mirador de Calpe is a building on the second line of the Arenal beach, built two years ago.\n\nIt has a swimming pool, paddle tennis court, large elevators, etc.\n\nThe apartment has three bedrooms, two bathrooms, a spacious living room, kitchen, a sunroom at the front and another balcony at the rear.\n\nEnjoy beautiful views of the sea, and it is a two minute walk from the sand.\n\nThe apartment has a parking space and a storage room.",
+            "propertyTitleFR": null,
+            "propertyDescriptionFR": "Mirador de Calpe est un bâtiment sur la deuxième ligne de la plage de l'Arenal, construit il y a deux ans.\n\nIl dispose d'une piscine, d'un court de paddle-tennis, de grands ascenseurs, etc.\n\nL'appartement dispose de trois chambres, deux salles de bains, un salon spacieux, une cuisine, une véranda à l'avant et un autre balcon à l'arrière.\n\nProfitez d'une vue magnifique sur la mer et se trouve à deux minutes à pied du sable.\n\nL'appartement dispose d'une place de parking et d'un débarras.",
+            "hasLift": true,
+            "isGroundFloor": null,
+            "isTopFloor": null,
+            "grossArea": 95.00,
+            "netArea": 80.00,
+            "totalBedrooms": 3,
+            "totalWC": 2,
+            "totalRooms": 4,
+            "plotArea": null,
+            "totalHalfWC": 2,
+            "totalParkingSpaces": 1,
+            "totalApartmentsPerFloor": null,
+            "constructionYear": 2019,
+            "floorCount": null,
+            "totalFloorsOfHouse": null,
+            "netAreaQualifiable": true,
+            "roomsQualifiable": true,
+            "wcQualifiable": true,
+            "isPrivateCondominium": true,
+            "hasSanitation": null,
+            "inLandSubdivision": null,
+            "landFormatFrontSize": null,
+            "landFormatBottomSize": null,
+            "observationsPublic": "Referencia Hamiltons HO350573",
+            "address": {
+                "streetName": "AV EUROPA 11 ",
+                "buildingNumber": "a",
+                "floorNumber": "2",
+                "postalCode": "03710",
+                "locality": "Playa Arenal-Bol",
+                "city": "Marina Alta",
+                "latitude": 38.64330361522616,
+                "longitude": 0.056911590371726106,
+                "doorType": "Door #",
+                "fullAddress": null,
+                "addressLocationFullName": " Marina Alta,  Calpe,  Playa Arenal-Bol"
+            },
+            "lifeStyleType": "Beach",
+            "viewType": "Sea",
+            "orientationType": "South",
+            "energyPerformanceCertificateRating": null,
+            "videoURL": null,
+            "virtualRealityCode": null,
+            "listingWebSiteMasterUrl": "https://www.century21.pt/ref/C0138-00002",
+            "propertyPhotoList": [
+                {
+                    "orderNumber": 1,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/ce8ffda2-81af-4b96-879f-13fc49bdab2e-1053448_8922.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 2,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/84ca56e7-6e75-4479-bebe-f04dadb3ccfd-1053448_7378.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 3,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/f1c4d324-70ef-4d87-98c9-7c4ad29fdb2c-1053448_6556.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 4,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/f50466a0-c234-4b46-a7cb-b30e926b928e-1053448_4048.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 5,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/abb3aba4-568e-436d-8d42-457c8eb98315-1053448_7669.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 6,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/ac9f9f08-8446-4bcd-a071-fb195211419b-1053448_0493.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 7,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/a970b4ae-1e74-4240-a2f7-6142cf70c930-1053448_6680.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 8,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/ee9152cf-8732-4961-8748-eded83a2d1ab-1053448_5078.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 9,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/30b1e39b-526f-472c-981c-e73c0e693840-1053448_8889.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 10,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/27d95238-9bb5-4832-9e71-f3322dcf0dec-1053448_6730.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 11,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/18f0b05d-0d6d-4754-8452-33b8b0386c78-1053448_7286.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 12,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/43aa7b99-4cb5-4f0e-a1a8-694b2ac95719-1053448_9446.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 13,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/580c8b99-d668-41aa-865e-236ad2aa7476-1053448_4397.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 14,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/987a0c3d-9bae-4e4c-a2b7-322cd60efd38-1053448_5825.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 15,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/f3f94cbc-3b38-43b1-829b-2ccf6dac6b31-1053448_1922.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 16,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/e606fe54-a433-4dc3-bb53-ba9886a4d194-1053448_7461.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 17,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/d4ca41a3-e6bf-4c79-b52d-92c0d25c6007-1053448_3998.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 18,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/4d03731a-808b-47d7-893f-c2dc9fca6f4d-1053448_7411.jpg?w=1920&wat=1&org_if_sml=1"
+                }
+            ],
+            "equipmentTypeList": [
+                "Air Conditioner",
+                "Elevator",
+                "Comunications",
+                "Private Pool",
+                "Double Glass",
+                "Tennis Court",
+                "Balcony",
+                "Den"
+            ],
+            "surroundingTypeList": [],
+            "roomTypeList": [],
+            "labels": {
+                "dropPrice": false,
+                "hidePrice": false,
+                "fullyFinanced": false
+            },
+            "agent": {
+                "id": "75598cb7-ca50-4212-9363-ec21573bf0e8",
+                "name": "Mark Goodman",
+                "emailAddress": "mark.g@century21.es",
+                "role": "Team Leader",
+                "telephoneNumber": "",
+                "photo": "https://cdn.21online.app/v7/_c21cdn_/agent-photo_ee445e60-a26f-4030-89df-3cf91e0b9546.png",
+                "mySiteUrl": "https://www.mysitec21.com/mark-g",
+                "agency": {
+                    "id": 6313,
+                    "name": "CENTURY 21 Evolution",
+                    "commercialName": "APF EVOLUTION S.L.",
+                    "licence": "0",
+                    "address": {
+                        "streetName": "Avenida Gabriel Miró",
+                        "buildingNumber": "14",
+                        "floorNumber": null,
+                        "postalCode": "03710",
+                        "locality": "Calpe",
+                        "city": "Alicante",
+                        "latitude": 38.6435072,
+                        "longitude": 0.0474966,
+                        "doorType": "DoorNumber",
+                        "fullAddress": null,
+                        "addressLocationFullName": "España, Alicante, Marina Alta, Calpe, Calpe, Calpe Pueblo"
+                    },
+                    "emailAddress": "evolution@century21.es",
+                    "telephoneNumber": "0",
+                    "logo": "https://cdn.21online.app/v7/_c21cdn_/logo-evolution_80d026f2-fbf7-4c8a-9aba-a42fac02c76f.png"
+                }
+            },
+            "externalPortals": [
+                "Global",
+                "Idealista",
+                "Trovit",
+                "Yaencontre",
+                "GreenAcres",
+                "MLS España"
+            ]
+        },
+        {
+            "prospectSellerId": 2304689,
+            "prospectStatus": "Client",
+            "propertyId": 2888969,
+            "contractNumber": "C0138-00043",
+            "price": 1200.0,
+            "businessType": "For Rent",
+            "propertyType": "Homes",
+            "propertySubType": "Floor",
+            "propertyTitlePT": null,
+            "propertyDescriptionPT": null,
+            "propertyTitleES": "Increíble apartamento nuevo para alquiler de invierno en el centro de Calpe",
+            "propertyDescriptionES": "Edificio Mirador en segunda linea de la playa arenal, cerca del pueblo con todo lo esencial.\nUbicado en la zona más plana de Calpe.\n\nApartamento nuevo, moderno y muy bien decorado para alquiler de invierno con suministros incluidos en el precio. (electricidad, agua, internet, parking)\n\nEl apartamento está distribuido de tal manera que recibe mucha luz natural y brisa marina. Dispone de un amplio salón - comedor que da a una terraza amplia, con cocina abierta y un cuarto de baño.\nDispone de tres habitaciones grandes con armarios empotrados. La habitación principal dispone de cuarto de baño on suite, las otras dos habitaciones se comunican a través de una terraza exterior.  \n\nEl apartamento tiene aire acondicionado que da frío y calor. \n\nIncluye una plaza de parking privada y el coste de los suministros.\n\nEs necesario aportar documentos que reflejen ingresos fijos.\n",
+            "propertyTitleEN": "Amazing new apartment for winter rental in the center of Calpe ",
+            "propertyDescriptionEN": "Mirador building on the second line of the arenal beach, near the town with all the essentials.\nLocated in the flattest area of Calpe.\n\nNew, modern and beautifully decorated apartment for winter rental with supplies included in the price (electricity, water, internet, parking).\n\nThe apartment is distributed in such a way that it receives a lot of natural light and a sea breeze. It has a spacious living - dining room that opens onto a large terrace, with an open kitchen and a bathroom.\nIt has three large bedrooms with built-in wardrobes. The main room has an on-suite bathroom, the other two rooms communicate through an outside terrace.\n\nThe apartment has air conditioning that gives hot and cold.\n\nIncludes a private parking space and the cost of supplies.\n\nIt is necessary to provide documents that reflect fixed income.\n\n",
+            "propertyTitleFR": "Magnifique appartement neuf en location d'hiver dans le centre de Calpe",
+            "propertyDescriptionFR": "Immeuble Mirador sur la deuxième ligne de la plage Arenal, près de la ville avec tous les éléments essentiels.\nSitué dans le quartier le plus plat de Calpe.\n\nAppartement neuf, moderne et joliment décoré à louer pour l'hiver avec fournitures incluses dans le prix.(électricité, eau, internet, parking)\n\nL'appartement est distribué de manière à recevoir beaucoup de lumière naturelle et une brise marine. Il dispose d'un spacieux salon - salle à manger qui s'ouvre sur une grande terrasse, d'une cuisine ouverte et d'une salle de bain.\nIl dispose de trois grandes chambres avec placards intégrés. La pièce principale dispose d'une salle de bain attenante, les deux autres chambres communiquent par une terrasse extérieure.\n\nL'appartement dispose de la climatisation qui donne chaud et froid.\n\nComprend une place de parking privée et le coût des fournitures.\n\nIl est nécessaire de fournir des documents qui reflètent les revenus fixes.",
+            "hasLift": true,
+            "isGroundFloor": null,
+            "isTopFloor": null,
+            "grossArea": 90.00,
+            "netArea": 90.00,
+            "totalBedrooms": 3,
+            "totalWC": 2,
+            "totalRooms": 4,
+            "plotArea": null,
+            "totalHalfWC": null,
+            "totalParkingSpaces": 1,
+            "totalApartmentsPerFloor": null,
+            "constructionYear": null,
+            "floorCount": null,
+            "totalFloorsOfHouse": null,
+            "netAreaQualifiable": true,
+            "roomsQualifiable": true,
+            "wcQualifiable": true,
+            "isPrivateCondominium": null,
+            "hasSanitation": null,
+            "inLandSubdivision": null,
+            "landFormatFrontSize": null,
+            "landFormatBottomSize": null,
+            "observationsPublic": null,
+            "address": {
+                "streetName": "Av Europa",
+                "buildingNumber": "11",
+                "floorNumber": "5A",
+                "postalCode": "03710",
+                "locality": "Calpe Pueblo",
+                "city": "Marina Alta",
+                "latitude": 38.64311155572108,
+                "longitude": 0.05766296793029824,
+                "doorType": "Door #",
+                "fullAddress": null,
+                "addressLocationFullName": " Marina Alta,  Calpe,  Calpe Pueblo"
+            },
+            "lifeStyleType": "City",
+            "viewType": "Sea",
+            "orientationType": "East/South",
+            "energyPerformanceCertificateRating": null,
+            "videoURL": null,
+            "virtualRealityCode": null,
+            "listingWebSiteMasterUrl": "https://www.century21.pt/ref/C0138-00043",
+            "propertyPhotoList": [
+                {
+                    "orderNumber": 1,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/edificio-1-_debd8314-781f-4b5f-9612-7c3039e29a14.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 2,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-4275-copia_a63c05b3-47d4-4382-9514-75b83a470166.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 3,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-4269-copia_dbd4cdbb-b625-4fa7-8f0f-e4149ea237bf.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 4,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-4270-copia_f08a9d5c-f998-41dc-8565-513d14082858.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 5,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-4271-copia_4f7a605f-4748-4616-bc92-46df469741ab.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 6,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-4266-copia_dbec2a46-c8a6-47a4-ad7a-b12303c69adc.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 7,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-4254-copia_75c48aa8-8b05-4634-95b4-9700cef3b8f4.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 8,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-4274-copia_009b4343-1dc1-4af4-ab33-75a14656d745.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 9,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-4257-copia_5fe081ea-b02a-44da-8713-aa1284ab4b69.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 10,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-4256-copia_9dea4f77-6af4-4053-bdcb-e2441ada947a.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 11,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-4263-copia_ecd393c1-241c-49fe-8e9d-0ddf14bca641.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 12,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-4265-copia_5c9f6633-99e6-4270-a6b5-6fed8aa956d0.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 13,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-4264-copia_6ac1c724-3a0b-4044-9d81-660facee486b.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 14,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-4259-copia_dc0c9178-2483-4c82-a2aa-9515b1e95651.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 15,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-4273-copia_c037e3f1-6311-4d56-aeb1-5a0ea2ac74dd.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 16,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-4262-copia_e80a1c9c-d4ac-40b4-9992-be4d7f8e6289.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 17,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-4261-copia_afbd4a18-89aa-4dae-af93-f8d944c3c474.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 18,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/edificio-4-_92825e53-3c9e-4373-af8a-568a23648bd9.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 19,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/edificio-3-_56e5ca3e-5517-49f3-9d83-d81a05e0f399.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 20,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/edificio-5-_66f3e589-c288-4b5f-921d-fc6eaffc5b23.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 21,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/edificio-2-_81a3ea81-cf8e-4320-b86d-3b0714efd2f4.jpg?w=1920&wat=1&org_if_sml=1"
+                }
+            ],
+            "equipmentTypeList": [
+                "Collective Pool",
+                "Elevator",
+                "Refrigerator",
+                "Washing Machine",
+                "Dishwasher",
+                "Microwave",
+                "High Security Door",
+                "Wardrobes",
+                "Comunications",
+                "Poliban",
+                "Video Intercom",
+                "Heated Towel Rails",
+                "Kitchenet",
+                "Electric Stove",
+                "Garage",
+                "Urban",
+                "Safety Ordinance",
+                "Automatic Access Control",
+                "Forced Ventilation Basement Toilets",
+                "Bedding",
+                "Bathtub",
+                "Terrace",
+                "Kitchenware",
+                "Equipped Kitchen",
+                "Concierge",
+                "Balcony",
+                "Furnished"
+            ],
+            "surroundingTypeList": [
+                {
+                    "name": "Bus Station",
+                    "place": "BusStation",
+                    "distanceInMeters": 20
+                },
+                {
+                    "name": "Town Centre",
+                    "place": "TownCentre",
+                    "distanceInMeters": 400
+                },
+                {
+                    "name": "Sea",
+                    "place": "Sea",
+                    "distanceInMeters": 200
+                },
+                {
+                    "name": "Ocean",
+                    "place": "Beach",
+                    "distanceInMeters": 200
+                },
+                {
+                    "name": "Ocean View",
+                    "place": "BeachView",
+                    "distanceInMeters": null
+                },
+                {
+                    "name": "City View",
+                    "place": "CityView",
+                    "distanceInMeters": null
+                }
+            ],
+            "roomTypeList": [
+                {
+                    "name": "Bathroom",
+                    "area": null
+                },
+                {
+                    "name": "Laundrette",
+                    "area": null
+                },
+                {
+                    "name": "Kitchenet",
+                    "area": null
+                },
+                {
+                    "name": "Bedroom",
+                    "area": null
+                },
+                {
+                    "name": "Bedroom",
+                    "area": null
+                },
+                {
+                    "name": "Dining Room",
+                    "area": null
+                },
+                {
+                    "name": "Balconies",
+                    "area": null
+                },
+                {
+                    "name": "Terrace",
+                    "area": null
+                },
+                {
+                    "name": "Salon",
+                    "area": null
+                },
+                {
+                    "name": "Suiteroom",
+                    "area": null
+                },
+                {
+                    "name": "Suite Bathroom",
+                    "area": null
+                }
+            ],
+            "labels": {
+                "dropPrice": false,
+                "hidePrice": false,
+                "fullyFinanced": false
+            },
+            "agent": {
+                "id": "e1b124fc-98c0-463b-acc5-899c4bfdc992",
+                "name": "Virginia Verónica Flores",
+                "emailAddress": "virginia.f@century21.es",
+                "role": "Sales Agent",
+                "telephoneNumber": "",
+                "photo": "https://cdn.21online.app/v7/_c21cdn_/agent-photo_ae89a615-c64d-4a68-a721-b0745dda7524.png",
+                "mySiteUrl": "https://www.mysitec21.com/virginia-f",
+                "agency": {
+                    "id": 6313,
+                    "name": "CENTURY 21 Evolution",
+                    "commercialName": "APF EVOLUTION S.L.",
+                    "licence": "0",
+                    "address": {
+                        "streetName": "Avenida Gabriel Miró",
+                        "buildingNumber": "14",
+                        "floorNumber": null,
+                        "postalCode": "03710",
+                        "locality": "Calpe",
+                        "city": "Alicante",
+                        "latitude": 38.6435072,
+                        "longitude": 0.0474966,
+                        "doorType": "DoorNumber",
+                        "fullAddress": null,
+                        "addressLocationFullName": "España, Alicante, Marina Alta, Calpe, Calpe, Calpe Pueblo"
+                    },
+                    "emailAddress": "evolution@century21.es",
+                    "telephoneNumber": "0",
+                    "logo": "https://cdn.21online.app/v7/_c21cdn_/logo-evolution_80d026f2-fbf7-4c8a-9aba-a42fac02c76f.png"
+                }
+            },
+            "externalPortals": [
+                "MLS España"
+            ]
+        },
+        {
+            "prospectSellerId": 2318693,
+            "prospectStatus": "Client",
+            "propertyId": 2902973,
+            "contractNumber": "C0138-00052",
+            "price": 2000.0,
+            "businessType": "For Rent",
+            "propertyType": "Homes",
+            "propertySubType": "Villa",
+            "propertyTitlePT": null,
+            "propertyDescriptionPT": null,
+            "propertyTitleES": "Villa para alquiler de invierno a pocos minutos del centro de Calpe",
+            "propertyDescriptionES": "Esta hermosa villa DISPONIBLE SOLO PARA ALQUILER DE INVIERNO (NOVIEMBRE-MARZO) se encuentra al lado de las canchas de tenis de Calpe.\n\nLa villa cuenta con un relajante salón con acogedores sofás, una mesa de comedor de ocho plazas y una gran cocina totalmente equipada. Tres de las cinco habitaciones tienen puertas de vidrio de piso a techo que se abren a un balcón, con vistas fantásticas del Peñón d'Ifach, un enorme afloramiento de piedra caliza en la distancia.\n\nPlanta baja\nDormitorio 1 Cama doble, Puertas a Terrace Gardens, Aire acondicionado Frio calor\nDormitorio 2 camas individuales, aire acondicionado frío calor\nHorno de cocina, vitrocerámica, microondas, lavavajillas, frigorífico, lavadora, zona con mesa y sillas\nLounge TV de pantalla plana, reproductor de DVD, asientos cómodos, área con mesa de comedor y sillas, puertas a los jardines de la terraza, aire acondicionado frío calor, acceso a Internet Wi Fi, TV vía satélite con múltiples canales en inglés\nAseo Ducha, Inodoro, Lavabo\n\nPrimer piso\nDormitorio 3 camas individuales, baño con ducha, balcón, aire acondicionado frío calor\nDormitorio 4 Cama doble, Balcón, Aire acondicionado Frio calor\nDormitorio 5 camas individuales, aire acondicionado frío calor\nBaño con ducha, inodoro, lavabo\n\nExterior\nEstacionamiento fuera de carretera Estacionamiento\nPiscina privada, Tamaño de la piscina: 8m x 4m, Profundidad de la piscina: 1.2m - 1.6m, Escaleras romanas, Ducha lateral de la piscina\nTenis de mesa con terraza, terraza cubierta, terraza abierta, comedor al aire libre, tumbonas, sombrilla, jardín, barbacoa de obra, jardín cerrado",
+            "propertyTitleEN": "Villa for winter rentals just a few min from the centre of Calpe",
+            "propertyDescriptionEN": "This beautiful villa AVAILABLE ONLY FOR WINTER RENTAL (NOVEMBER-MARCH)  is located next to the tennis courts of Calpe.\n\nThe villa has a relaxing lounge with cosy sofas, an eight seater dining table and large, fully fitted kitchen. Three of the five bedrooms have floor to ceiling glass doors which open out onto a balcony, affording fantastic views of Peñón d’Ifach, a huge limestone outcrop in the distance.\n\nGround floor\nBedroom 1 Double Bed, Doors to Terrace Gardens, Air Conditioning Cold Heat\nBedroom 2 Twin Beds, Air Conditioning Cold Heat\nKitchen Oven, Hob, Microwave, Dishwasher, Fridge Freezer, Washing Machine, Area with Dining Table and Chairs\nLounge Flat Screen TV, DVD Player, Comfortable Seating, Area with Dining Table and Chairs, Doors to Terrace Gardens, Air Conditioning Cold Heat, Internet Access Wi Fi, Sat TV Multiple English Channels\nShower room Shower, Toilet, Basin\n\nFirst Floor\nBedroom 3 Twin Beds, En-suite Shower Room, Balcony, Air Conditioning Cold Heat\nBedroom 4 Double Bed, Balcony, Air Conditioning Cold Heat\nBedroom 5 Twin Beds, Air Conditioning Cold Heat\nBathroom Bath with Shower Over, Toilet, Basin\n\nOutdoors\nParking Off Road Parking\nPool Private Pool, Pool Size : 8m x 4m, Pool Depths : 1.2m - 1.6m, Roman Steps, Pool Side Shower\nTerrace Table Tennis, Covered Terrace, Open Terrace, Alfresco Dining Facilities, Sun Loungers, Parasol, Garden, Brick Built BBQ, Enclosed Garden",
+            "propertyTitleFR": "Villa pour les locations d'hiver à quelques minutes du centre de Calpe",
+            "propertyDescriptionFR": "Cette belle villa disponible uniquement pour la location d'hiver (novembre-mars) est située à côté des courts de tennis de Calpe.\n\nLa villa dispose d'un salon de détente avec de confortables canapés, une table à manger pour 8 personnes et une grande cuisine entièrement équipée. Trois des cinq chambres à coucher ont des portes vitrées qui s'ouvrent sur un balcon et offrent une vue fantastique sur Peñón d'Ifach, un énorme affleurement calcaire au loin.\n\nRez-de-chaussée\nChambre 1 Lit double, Portes donnant sur la terrasse, Climatisation, Chaleur froide\nChambre 2 Lits jumeaux, Climatisation Froid Chaud\nFour de cuisine, Plaques de cuisson, Micro-ondes, Lave-vaisselle, Réfrigérateur avec congélateur, Lave-linge, Espace avec table et chaises\nLounge TV à écran plat, lecteur DVD, sièges confortables, espace avec table à manger et chaises, portes fenêtres des jardins, climatisation, chauffage, accès internet Wi Fi, chaînes satellite anglaises\nDouche, toilettes, lavabo\n\nPremier étage\nChambre 3 Lits jumeaux, Salle de douche privative, Balcon, Climatisation Chaleur froide\nChambre 4 Lit double, balcon, climatisation Froid Chaud\nChambre 5 Lits jumeaux, Climatisation Froid Chaud\nSalle de bains avec douche, toilettes, lavabo\n\nEn plein air\nStationnement hors route Stationnement\nPool Private Pool, Taille de la piscine: 8m x 4m, Profondeur de la piscine: 1.2m - 1.6m, Marches romaines, Douche au bord de la piscine\nTerrasse, tennis de table, terrasse couverte, terrasse ouverte, installations de restauration en Alfresco, chaises longues, parasol, jardin, barbecue en brique, jardin clos",
+            "hasLift": null,
+            "isGroundFloor": null,
+            "isTopFloor": null,
+            "grossArea": 210.00,
+            "netArea": 210.00,
+            "totalBedrooms": 5,
+            "totalWC": 3,
+            "totalRooms": null,
+            "plotArea": 808.00,
+            "totalHalfWC": null,
+            "totalParkingSpaces": 3,
+            "totalApartmentsPerFloor": null,
+            "constructionYear": null,
+            "floorCount": 2,
+            "totalFloorsOfHouse": null,
+            "netAreaQualifiable": true,
+            "roomsQualifiable": true,
+            "wcQualifiable": true,
+            "isPrivateCondominium": true,
+            "hasSanitation": null,
+            "inLandSubdivision": null,
+            "landFormatFrontSize": null,
+            "landFormatBottomSize": null,
+            "observationsPublic": null,
+            "address": {
+                "streetName": "Partida Garduix",
+                "buildingNumber": "18D",
+                "floorNumber": null,
+                "postalCode": "03710",
+                "locality": "Cometa-Carrió",
+                "city": "Marina Alta",
+                "latitude": 38.6533669,
+                "longitude": 0.0501651,
+                "doorType": "Door #",
+                "fullAddress": null,
+                "addressLocationFullName": " Marina Alta,  Calpe,  Cometa-Carrió"
+            },
+            "lifeStyleType": "Mountain",
+            "viewType": "Mountain",
+            "orientationType": null,
+            "energyPerformanceCertificateRating": null,
+            "videoURL": null,
+            "virtualRealityCode": null,
+            "listingWebSiteMasterUrl": "https://www.century21.pt/ref/C0138-00052",
+            "propertyPhotoList": [
+                {
+                    "orderNumber": 1,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72498_fd6cb5d5-597b-4a82-b4a2-0569475d6602.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 2,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72497_51e9b3da-2b92-4b28-a328-7c4c02ce1f19.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 3,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72500_3bd257c2-1aee-48f3-ba21-3618b4487fc7.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 4,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72502_349da0ef-c105-46d0-b7ce-989bbb67d5b8.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 5,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72499_f41a7b05-0fb2-4fe1-bd18-4b37999a18c1.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 6,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72501_4f416797-2736-4665-a6d8-0f878159becf.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 7,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72503_d73e3cda-375f-4e5a-b2e7-dd2987bdf636.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 8,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72504_93220643-7652-4ffe-81d3-423a57423c6d.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 9,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72505_570d075d-47c7-4742-9c33-173e41ccfd36.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 10,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72506_433566d5-42b8-412f-a527-c8b6ff0d909e.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 11,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72507_7279088b-13d8-416e-a1bc-6035b944ac88.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 12,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72508_52a93920-3c63-4a83-88e7-208fdb3b712d.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 13,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72509_c7c9bf23-c4f7-4836-8017-4bfc8cdbccf8.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 14,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72510_c4852746-5da6-412b-af5b-ae5c796711de.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 15,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72511_22161eaf-17be-408c-ab04-9d19bd0996f5.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 16,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72512_e1990127-3a0e-447e-88a2-3a43db37f68f.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 17,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72513_6f48befd-696a-48de-9351-225c56b16498.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 18,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72514_e3a94626-242e-4574-871d-d12f1f48aab1.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 19,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72515_4803bb2e-9f0e-4bce-9d0e-62da4b8ec6cb.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 20,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72516_fa93ec6f-89bf-4e24-a53c-9abb0ebd9ff5.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 21,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72517_b5ca84ba-fa4a-4c0b-ab27-f6e345ff4a3f.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 22,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72520_78818aa5-4f8b-4d0d-ab32-70c08904dc48.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 23,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72519_8837cc8b-851a-4afa-895b-6050384a77b0.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 24,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/72518_86b484c4-4336-47cb-adcb-3e6e9df9d3e3.jpg?w=1920&wat=1&org_if_sml=1"
+                }
+            ],
+            "equipmentTypeList": [
+                "Engine Room",
+                "Barbecue",
+                "Game Room",
+                "Garden",
+                "Air Conditioner",
+                "WiFi",
+                "Electric Gate",
+                "Satellite Dish",
+                "Refrigerator",
+                "Washing Machine",
+                "Dishwasher",
+                "Microwave",
+                "High Security Door",
+                "Wardrobes",
+                "Private Pool",
+                "Double Glass",
+                "Heated Towel Rails",
+                "Fireplace",
+                "Bedding",
+                "Indoor Parking",
+                "Terrace",
+                "Kitchenware",
+                "Equipped Kitchen",
+                "Oil Heating",
+                "Mosquito Nets",
+                "Solid Doors",
+                "Den",
+                "Patio"
+            ],
+            "surroundingTypeList": [
+                {
+                    "name": "Mountain",
+                    "place": "Mountain",
+                    "distanceInMeters": null
+                }
+            ],
+            "roomTypeList": [],
+            "labels": {
+                "dropPrice": false,
+                "hidePrice": false,
+                "fullyFinanced": false
+            },
+            "agent": {
+                "id": "e1b124fc-98c0-463b-acc5-899c4bfdc992",
+                "name": "Virginia Verónica Flores",
+                "emailAddress": "virginia.f@century21.es",
+                "role": "Sales Agent",
+                "telephoneNumber": "",
+                "photo": "https://cdn.21online.app/v7/_c21cdn_/agent-photo_ae89a615-c64d-4a68-a721-b0745dda7524.png",
+                "mySiteUrl": "https://www.mysitec21.com/virginia-f",
+                "agency": {
+                    "id": 6313,
+                    "name": "CENTURY 21 Evolution",
+                    "commercialName": "APF EVOLUTION S.L.",
+                    "licence": "0",
+                    "address": {
+                        "streetName": "Avenida Gabriel Miró",
+                        "buildingNumber": "14",
+                        "floorNumber": null,
+                        "postalCode": "03710",
+                        "locality": "Calpe",
+                        "city": "Alicante",
+                        "latitude": 38.6435072,
+                        "longitude": 0.0474966,
+                        "doorType": "DoorNumber",
+                        "fullAddress": null,
+                        "addressLocationFullName": "España, Alicante, Marina Alta, Calpe, Calpe, Calpe Pueblo"
+                    },
+                    "emailAddress": "evolution@century21.es",
+                    "telephoneNumber": "0",
+                    "logo": "https://cdn.21online.app/v7/_c21cdn_/logo-evolution_80d026f2-fbf7-4c8a-9aba-a42fac02c76f.png"
+                }
+            },
+            "externalPortals": [
+                "Idealista",
+                "Global",
+                "Trovit",
+                "Yaencontre",
+                "GreenAcres",
+                "MLS España"
+            ]
+        },
+        {
+            "prospectSellerId": 2318907,
+            "prospectStatus": "Client",
+            "propertyId": 2903187,
+            "contractNumber": "C0138-00055",
+            "price": 725000.0,
+            "businessType": "For Sale",
+            "propertyType": "Homes",
+            "propertySubType": "Villa",
+            "propertyTitlePT": null,
+            "propertyDescriptionPT": null,
+            "propertyTitleES": "Ubicada en la urbanización de La Merced, esta casa está a pocos minutos caminando de supermercados y de playas de arena.   Cuenta con una parcela privada con mucho espacio de estacionamiento, una preciosa piscina con vistas panorámicas, y varias terrazas.",
+            "propertyDescriptionES": "Ubicada en la urbanización de La Merced, esta casa está a pocos minutos caminando de supermercados y de playas de arena. \n\nCuenta con una parcela privada con mucho espacio de estacionamiento, una preciosa piscina con vistas panorámicas, y varias terrazas. \nLa casa está distribuida en dos plantas. Dos dormitorios, un baño, un gran salón y una cocina en la planta baja, y la habitación principal enorme con una terraza de las mismas proporciones en la parte alta, con un cuarto de baño completo, \n\nEstá disponible de manera inmediata. Estas semanas están haciendo reformas, y se podría entrar en unas semanas. \n\nEs necesario demostrar ingresos fijos constantes para alquilar esta propiedad. ",
+            "propertyTitleEN": "Located in the urbanization of La Merced, this house is a few minutes walk from supermarkets and sandy beaches.  It has a private plot with plenty of parking space, a beautiful swimming pool with panoramic views, and several terraces. The house is distrib",
+            "propertyDescriptionEN": "Located in the urbanization of La Merced, this house is a few minutes walk from supermarkets and sandy beaches.\n\nIt has a private plot with plenty of parking space, a beautiful swimming pool with panoramic views, and several terraces.\nThe house is distributed in two floors. Two bedrooms, a bathroom, a large living room and a kitchen on the ground floor, and the huge main room with a terrace of the same proportions on the upper part, with a complete bathroom,\n\nIt is available immediately. These weeks they are doing reforms, and it could be entered in a few weeks.\n\nIt is necessary to demonstrate constant fixed income to rent this property.",
+            "propertyTitleFR": "Située dans l'urbanisation de La Merced, cette maison est à quelques minutes à pied des supermarchés et des plages de sable.  Il a un terrain privé avec beaucoup d'espace de stationnement, une belle piscine avec vue panoramique et plusieurs terrasses. La ",
+            "propertyDescriptionFR": "Située dans l'urbanisation de La Merced, cette maison est à quelques minutes à pied des supermarchés et des plages de sable.\n\nIl a un terrain privé avec beaucoup d'espace de stationnement, une belle piscine avec vue panoramique et plusieurs terrasses.\nLa maison est répartie sur deux étages. Deux chambres, une salle de bain, un grand séjour et une cuisine au rez-de-chaussée, et l'immense pièce principale avec une terrasse de mêmes proportions en partie haute, avec une salle de bain complète,\n\nIl est disponible immédiatement. Ces semaines-ci, ils font des réformes, et cela pourrait être entré dans quelques semaines.\n\nIl est nécessaire de démontrer un revenu fixe constant pour louer cette propriété.",
+            "hasLift": null,
+            "isGroundFloor": null,
+            "isTopFloor": null,
+            "grossArea": 115.00,
+            "netArea": 115.00,
+            "totalBedrooms": 3,
+            "totalWC": 2,
+            "totalRooms": null,
+            "plotArea": 800.00,
+            "totalHalfWC": null,
+            "totalParkingSpaces": 2,
+            "totalApartmentsPerFloor": null,
+            "constructionYear": 2000,
+            "floorCount": null,
+            "totalFloorsOfHouse": null,
+            "netAreaQualifiable": true,
+            "roomsQualifiable": true,
+            "wcQualifiable": true,
+            "isPrivateCondominium": true,
+            "hasSanitation": null,
+            "inLandSubdivision": null,
+            "landFormatFrontSize": null,
+            "landFormatBottomSize": null,
+            "observationsPublic": null,
+            "address": {
+                "streetName": "Urbanizacion Costeres",
+                "buildingNumber": "13B",
+                "floorNumber": "2",
+                "postalCode": "03710",
+                "locality": "Calpe",
+                "city": "Marina Alta",
+                "latitude": 38.6559936,
+                "longitude": 0.07145028164062468,
+                "doorType": "Door #",
+                "fullAddress": null,
+                "addressLocationFullName": " Marina Alta,  Calpe"
+            },
+            "lifeStyleType": "City",
+            "viewType": "City",
+            "orientationType": null,
+            "energyPerformanceCertificateRating": null,
+            "videoURL": null,
+            "virtualRealityCode": null,
+            "listingWebSiteMasterUrl": "https://www.century21.pt/ref/C0138-00055",
+            "propertyPhotoList": [
+                {
+                    "orderNumber": 1,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9865-copia-jpg_486150de-4e9e-41b4-830e-a27ca95f277c.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 2,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9825-copia-jpg_f469516e-b0e5-4b12-8195-c7373d43cfcc.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 3,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9873-copia-jpg_f016c388-6ad0-4d35-947d-bfe3c92b2d3f.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 4,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9874-copia-jpg_fe541fc1-3d48-491c-b32b-0c35a2636982.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 5,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9869-copia-jpg_ec77d4e5-3150-4c99-a74f-76b7f30b8e31.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 6,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9863-copia-jpg_a75a080a-3c8a-420d-b15b-9faf8325a7cb.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 7,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9867-copia-jpg_e3980709-3a59-41b2-b52f-4b70ed29a3e6.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 8,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9868-copia-jpg_408497cc-24fe-4508-ab3a-131351171d4c.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 9,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9855-copia-jpg_284866ce-c0dc-4128-b885-168c5fd659fc.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 10,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9853-copia-jpg_020b5411-3c6e-4631-ae8b-da820db402d8.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 11,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9860-copia-jpg_5c1c891e-d3dd-4c25-9301-3f7a703327a2.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 12,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9847-copia-jpg_fb854982-cbfb-4dd9-a7cb-664999cad52c.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 13,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9828-copia-jpg_9bbac970-6585-4853-9184-b3aa6552be52.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 14,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9830-copia-jpg_c39a5aa6-cf97-4a0a-bbe4-7d649fd7eea4.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 15,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9831-copia-jpg_79bb34c4-d507-4f6c-942c-ff57b9d7aa40.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 16,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9821-copia-jpg_93801628-cd22-47cb-9f0c-71108f1c00bf.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 17,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9823-copia-jpg_8c8ca4d0-2be0-48fa-9f26-dff028a9d77e.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 18,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9826-copia-jpg_56b5661c-d69a-4a60-af04-0593a371b85f.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 19,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9832-copia-jpg_b90dc47d-45b9-4b19-bd7b-0ae9c3197f40.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 20,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9833-copia-jpg_a9577d0b-8ed7-4bfc-b10c-ea185cf07c0a.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 21,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9836-copia-jpg_c62423cb-9fab-4263-afa3-c8785ec0a22e.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 22,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9837-copia-jpg_c8c903a7-e693-40cb-9c00-5365cb64282f.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 23,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9839-copia-jpg_098d2442-f95b-45fb-b9f7-4be0801948e3.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 24,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9840-copia-jpg_c9902826-e57c-4d63-946b-33c6cd65db55.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 25,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9843-copia-jpg_642395e9-9969-4441-a63b-c37848115c02.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 26,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9848-copia-jpg_feee6489-ab64-4728-b16a-e107c6769c74.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 27,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9849-copia-jpg_712dd869-071f-4485-a223-1c60e68f6bcf.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 28,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9851-copia-jpg_ffcc4b12-be2a-4e50-a110-b3a25b26ca48.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 29,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9856-copia-jpg_442aafab-5d45-4d58-a896-adec583ce2c1.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 30,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9857-copia-jpg_023cb933-2471-42a6-a561-1c337de51919.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 31,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9859-copia-jpg_9f69ae5e-ff44-4eb7-9f58-df28df5ad01b.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 32,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9871-copia-jpg_04074193-1c12-4314-9284-128c4418d923.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 33,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9872-copia-jpg_4ee3ff41-d446-4f46-9791-dbb08da700a1.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 34,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9875-copia-jpg_77077a0e-d665-438f-a835-4d75b6e385d4.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 35,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9845-copia-jpg_d52263b0-5bae-4678-b80c-4fd53e4b2e13.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 36,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9870-copia-jpg_12613c84-6d66-4dbe-ac4c-92bfdaa54641.jpg?w=1920&wat=1&org_if_sml=1"
+                }
+            ],
+            "equipmentTypeList": [
+                "Barbecue",
+                "Garden",
+                "Central Heating",
+                "Waterhole",
+                "Satellite Dish",
+                "Oven",
+                "Wardrobes",
+                "Private Pool",
+                "Double Glass",
+                "Heated Towel Rails",
+                "American Kitchen",
+                "Garage",
+                "Recessed Lighting",
+                "Bathtub",
+                "Terrace",
+                "Storage Room",
+                "Den",
+                "Patio",
+                "Playground ",
+                "Parking Garage Visit"
+            ],
+            "surroundingTypeList": [
+                {
+                    "name": "City",
+                    "place": "City",
+                    "distanceInMeters": null
+                },
+                {
+                    "name": "Green Spaces",
+                    "place": "GreenSpaces ",
+                    "distanceInMeters": null
+                },
+                {
+                    "name": "City View",
+                    "place": "CityView",
+                    "distanceInMeters": null
+                }
+            ],
+            "roomTypeList": [],
+            "labels": {
+                "dropPrice": false,
+                "hidePrice": false,
+                "fullyFinanced": false
+            },
+            "agent": {
+                "id": "e1b124fc-98c0-463b-acc5-899c4bfdc992",
+                "name": "Virginia Verónica Flores",
+                "emailAddress": "virginia.f@century21.es",
+                "role": "Sales Agent",
+                "telephoneNumber": "",
+                "photo": "https://cdn.21online.app/v7/_c21cdn_/agent-photo_ae89a615-c64d-4a68-a721-b0745dda7524.png",
+                "mySiteUrl": "https://www.mysitec21.com/virginia-f",
+                "agency": {
+                    "id": 6313,
+                    "name": "CENTURY 21 Evolution",
+                    "commercialName": "APF EVOLUTION S.L.",
+                    "licence": "0",
+                    "address": {
+                        "streetName": "Avenida Gabriel Miró",
+                        "buildingNumber": "14",
+                        "floorNumber": null,
+                        "postalCode": "03710",
+                        "locality": "Calpe",
+                        "city": "Alicante",
+                        "latitude": 38.6435072,
+                        "longitude": 0.0474966,
+                        "doorType": "DoorNumber",
+                        "fullAddress": null,
+                        "addressLocationFullName": "España, Alicante, Marina Alta, Calpe, Calpe, Calpe Pueblo"
+                    },
+                    "emailAddress": "evolution@century21.es",
+                    "telephoneNumber": "0",
+                    "logo": "https://cdn.21online.app/v7/_c21cdn_/logo-evolution_80d026f2-fbf7-4c8a-9aba-a42fac02c76f.png"
+                }
+            },
+            "externalPortals": [
+                "Idealista",
+                "Global",
+                "Trovit",
+                "Yaencontre",
+                "GreenAcres",
+                "FotoCasa",
+                "MLS España"
+            ]
+        },
+        {
+            "prospectSellerId": 2319368,
+            "prospectStatus": "Client",
+            "propertyId": 2903648,
+            "contractNumber": "C0138-00100",
+            "price": 449000.0,
+            "businessType": "For Sale",
+            "propertyType": "Homes",
+            "propertySubType": "Single Family Home",
+            "propertyTitlePT": null,
+            "propertyDescriptionPT": null,
+            "propertyTitleES": "Magnífica villa independiente de estilo tradicional en Calpe.",
+            "propertyDescriptionES": "Detached house distributed over one floor, maintaining the traditional Mediterranean style but with a modernized interior touch, it has been partially renovated and very well maintained.\n\nIt has three spacious and bright rooms with fitted wardrobes and split air conditioning. It also has two spacious, complete and modern bathrooms.\n\nThe kitchen is completely independent with a window that connects to the dining room. The living room is very spacious with large windows and relaxing views, it also has a second living room with another additional point of access and views towards the Peñón de Ifach. We can also find a storage room in the outside area of ​​the house. As for heating we find the fireplace in the main living room as well as some radiators and the air conditioning system.\n\nIt has a very comfortable distribution as it is possible to access the common areas through various access points, as well as the amount of natural light it obtains. It has a large plot of about 700m2 where you can find two covered terraces, one in the front that connects to the pool and the other in the back with a barbecue area, ideal for enjoying the Mediterranean lifestyle. In addition to a large garden area, it enjoys privacy and views towards nature that transmits a feeling of peace and harmony. You have space to park your vehicles inside the property.\n\nLocated in a very quiet residential area near parks, just 2.6km from the nearest beach, it has some bars/restaurants in the area, and the town center is 3.5km away with everything you need.\n\nThanks to the low annual costs of ownership and the size of the house it is ideal as a home for a family or as an investment opportunity.\n\nDo not hesitate to contact us for more information or to organize a visit.",
+            "propertyTitleEN": "Gorgeous traditional style independent villa in Calpe.",
+            "propertyDescriptionEN": "Vivienda unifamiliar distribuida sobre una planta, mantiene el estilo tradicional Mediterráneo pero con un toque interior modernizado, ha sido parcialmente reformado y muy bien mantenido.\n\nDispone de tres habitaciones amplias y luminosas con armarios empotrados y aire acondicionado por split. También cuenta con dos cuartos de baños amplios, completos y modernos. \n\nLa cocina es totalmente independiente con una ventana que conecta con el comedor. La sala de estar es muy amplia con grandes ventanas y vistas relajantes, también cuenta con una segunda sala de estar con otro punto adicional de acceso y vistas hacia el Peñón de Ifach. También podemos encontrar un trastero en la zona exterior de la vivienda. En cuanto a calefacción encontramos la chimenea en la sala de estar principal así como algunos radiadores y el sistema de aire acondicionado.\n\nTiene una distribución muy cómoda al poder acceder a las zonas comunes por varios puntos de accesos, así como la cantidad de luz natural que obtiene. Goza de una gran parcela de unos 700m2 donde podrá localizar dos terrazas cubiertas, una delantera que conecta con la piscina y otra trasera con zona de barbacoa ideal para poder disfrutar del estilo de vida Mediterráneo. Además de mucha zona de jardín, goza de privacidad y vistas hacia la naturaleza que transmite un sentimiento de paz y armonía. Tiene espacio para aparcar sus vehículos dentro de la propiedad.\n\nUbicado en una zona residencial muy tranquila cerca de parques, a tan solo 2,6km de la playa más cercana,  dispone de algunos bares/restaurantes en la zona, y el centro del pueblo a 3,5km con todo lo necesario.\n\nGracias a los costes bajos anuales de la propiedad y la dimensión de la vivienda es ideal como hogar para una familia o como oportunidad de inversión.\n\nNo dude en contactarnos para más información o para organizar una visita. \n",
+            "propertyTitleFR": "Magnifique villa indépendante de style traditionnel à Calpe.",
+            "propertyDescriptionFR": "Maison individuelle répartie sur un étage, conservant le style méditerranéen traditionnel mais avec une touche intérieure modernisée, elle a été partiellement rénovée et très bien entretenue.\n\nIl dispose de trois chambres spacieuses et lumineuses avec placards et climatisation split. Il dispose également de deux salles de bains spacieuses, complètes et modernes.\n\nLa cuisine est complètement indépendante avec une fenêtre qui se connecte à la salle à manger. Le salon est très spacieux avec de grandes fenêtres et des vues relaxantes, il dispose également d'un deuxième salon avec un autre point d'accès supplémentaire et des vues vers le Peñón de Ifach. Nous pouvons également trouver une salle de stockage à l'extérieur de la maison. Côté chauffage on retrouve la cheminée dans le séjour principal ainsi que quelques radiateurs et le système de climatisation.\n\nIl a une distribution très confortable car il est possible d'accéder aux espaces communs par plusieurs points d'accès, ainsi que la quantité de lumière naturelle qu'il obtient. Il a un grand terrain d'environ 700m2 où vous pouvez trouver deux terrasses couvertes, une à l'avant qui se connecte à la piscine et l'autre à l'arrière avec un espace barbecue, idéal pour profiter du style de vie méditerranéen. En plus d'un grand jardin, il bénéficie d'une intimité et d'une vue sur la nature qui transmet un sentiment de paix et d'harmonie. Vous disposez d'un espace pour garer vos véhicules à l'intérieur de la propriété.\n\nSitué dans un quartier résidentiel très calme à proximité de parcs, à seulement 2,6 km de la plage la plus proche, il y a quelques bars/restaurants dans le quartier et le centre-ville est à 3,5 km avec tout ce dont vous avez besoin.\n\nGrâce aux faibles coûts annuels de propriété et à la taille de la maison, elle est idéale comme maison pour une famille ou comme opportunité d'investissement.\n\nN'hésitez pas à nous contacter pour plus d'informations ou pour organiser une visite.",
+            "hasLift": null,
+            "isGroundFloor": null,
+            "isTopFloor": null,
+            "grossArea": 200.00,
+            "netArea": 200.00,
+            "totalBedrooms": 3,
+            "totalWC": 2,
+            "totalRooms": null,
+            "plotArea": 700.00,
+            "totalHalfWC": null,
+            "totalParkingSpaces": 2,
+            "totalApartmentsPerFloor": null,
+            "constructionYear": 1974,
+            "floorCount": 1,
+            "totalFloorsOfHouse": null,
+            "netAreaQualifiable": true,
+            "roomsQualifiable": true,
+            "wcQualifiable": true,
+            "isPrivateCondominium": true,
+            "hasSanitation": null,
+            "inLandSubdivision": null,
+            "landFormatFrontSize": null,
+            "landFormatBottomSize": null,
+            "observationsPublic": "Muy buenas condiciones, mantiene esencia tradicional/rústica.\nPiscina se cambio todas las baldosas\nRequiere reforma de todo suelo, ventanas y puertas son originales. ",
+            "address": {
+                "streetName": "Cometa II",
+                "buildingNumber": "43A",
+                "floorNumber": null,
+                "postalCode": "03710",
+                "locality": "Cometa-Carrió",
+                "city": "Marina Alta",
+                "latitude": 38.662762719956504,
+                "longitude": 0.06763047853493731,
+                "doorType": "Door #",
+                "fullAddress": null,
+                "addressLocationFullName": " Marina Alta,  Calpe,  Cometa-Carrió"
+            },
+            "lifeStyleType": "Beach",
+            "viewType": "Landscape",
+            "orientationType": "South/East",
+            "energyPerformanceCertificateRating": null,
+            "videoURL": null,
+            "virtualRealityCode": "https://castlefocus.s3.eu-west-2.amazonaws.com/HO357099/index.html ",
+            "listingWebSiteMasterUrl": "https://www.century21.pt/ref/C0138-00100",
+            "propertyPhotoList": [
+                {
+                    "orderNumber": 1,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0005-copia_c62bade5-960f-403b-b89c-6f9a7790b710.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 2,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0023-copia_9b474caf-faad-45ae-9c71-45237b2ecefe.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 3,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0013-copia_6158c592-5b62-40c4-be84-d9d0182539d9.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 4,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/dji-0176-copia_82011ef1-4260-45e9-9d67-71b7c3a6fd2d.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 5,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9973-copia_cbce9f86-c9d9-4032-a561-4e069abfc99f.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 6,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9974-copia_da956ced-adfe-437b-b48e-4b9f39671d9b.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 7,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9962-copia_d3cedc75-d0e8-46eb-a528-0a1a5dc53d98.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 8,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9959-copia_4c88834d-dc67-4084-a66d-b5f4af90a4b2.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 9,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9978-copia_f2673add-c458-4da5-91b0-a32799aac3db.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 10,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0002-copia_18c68645-fd87-405e-8435-dfd6c9f9f9dc.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 11,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0011-copia_536a969f-f9d7-48db-9ab4-303f706d67c9.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 12,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0017-copia_699c997a-702b-47a2-b490-826b1696bc99.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 13,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0019-copia_1069084d-9b57-4d9e-9d84-d2f0cc5ad331.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 14,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0015-copia_3f759782-416b-46de-b80f-e6a7e56ccecd.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 15,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9942-copia_57deee44-2e8d-4cb0-b86d-d61a3a50c108.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 16,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9944-copia_e0e270d4-e67c-4770-bd79-0e54cfa1980e.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 17,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9949-copia_8652fcdb-cb23-4d0c-b3b3-a5870bf0ff95.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 18,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9951-copia_4ca568a9-2e46-4ab6-9324-d0828ecaf5e4.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 19,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9946-copia_900991ee-8a28-4f6d-8b8c-bcc475354ec4.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 20,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9948-copia_6bb2af54-3840-455c-bffd-2d4e0fe040fa.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 21,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9955-copia_26d68e2b-3ce0-4b80-82c0-a332b3970c40.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 22,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9953-copia_285cdc98-da3c-448f-a1f9-38556d60ae58.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 23,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9960-copia_8e38ed9b-58ca-459b-83ac-64f21ca5d4a9.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 24,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9963-copia_bd50ba8c-17e7-458d-9804-f3cc97a2d1d1.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 25,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9975-copia_dea7515c-a3bd-4dd7-b1cf-49975e66c853.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 26,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9976-copia_adeaf6d1-1927-46e0-8077-e74e85006082.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 27,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9964-copia_8f3c0965-ddd9-4c15-975d-7bfc5c3097d0.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 28,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9957-copia_d8d70495-d716-4f39-8097-7f468f41f5b1.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 29,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0010-copia_598cec84-6d0a-47e9-8057-ea2ecf2550a7.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 30,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9968-copia_066dc2c1-b125-4a16-bd14-b95ca840bc04.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 31,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9969-copia_d62adf7d-4d42-4fc1-bfdb-f1642ce8decc.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 32,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9981-copia_d1621851-5df9-4bcc-880f-ceb3fda60742.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 33,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9988-copia_eb92372b-99ec-4144-b28e-9b7496311e98.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 34,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9989-copia_d3d36b09-7ae8-47ec-b3d9-79e61298aa82.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 35,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9991-copia_3e1a70ee-fcc8-456b-bfa1-1dbf60cd727d.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 36,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9983-copia_88cebc9b-8562-413d-b624-bf35281525fa.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 37,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9992-copia_1d52e367-6f32-4fbe-9b7d-c4ac7e68c6a2.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 38,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0006-copia_eb0697e5-cabb-4a3e-85c5-f085459c5e43.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 39,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0001-copia_2ded7622-a7a9-4b1c-b529-94eefd85e01c.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 40,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9998-copia_d8f73298-0cd7-41ba-b8cd-bc5154df197c.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 41,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0024-copia_9e9ab367-a958-4bc7-be47-eed5e926c5be.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 42,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0026-copia_7e76c7fd-a900-4a8c-be6a-4749ce5b7186.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 43,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0028-copia_df371fbf-c8b4-4e13-b28c-936240192822.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 44,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0029-copia_a2572275-7666-47b5-98fd-caadbb0ab31b.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 45,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0027-copia_f9ce5455-0af6-4d62-8c76-27c2a1a590c0.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 46,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0032-copia_9689285e-30fc-4a1b-be2e-015057ad277c.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 47,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/dji-0193-copia_0c31ef29-1dcf-43c1-95a8-fe39e12dcb9b.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 48,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0035-copia_4302bf5e-c595-40a8-8cd6-c488a1771832.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 49,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0037-copia_d5a8294f-84c5-419d-93eb-2015e9cb8ee5.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 50,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0043-copia_a08be547-f2a7-4c78-9b21-11b51aa8d170.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 51,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0041-copia_4301ec91-0bd7-49ff-8234-721d482551f9.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 52,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0040-copia_b38a12fc-b5e3-4cc7-a6d1-6b3bfed2fc52.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 53,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/dji-0172-copia_caf0fed8-c597-402c-a960-5b5f633c67ac.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 54,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0008-copia_4d90c729-85c1-4ee7-9c94-009273b2126c.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 55,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0022-copia_8bc33fc5-490c-4f71-9af9-662371b651ab.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 56,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0007-copia_1c356c42-019e-4bdd-aec5-30fff21aa5fc.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 57,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9999-copia_c0eb2ab8-6459-482b-af24-1c39da509607.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 58,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0038-copia_d873dcb5-f7cc-4f4b-abf5-bbec8c536bec.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 59,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0039-copia_5a73289a-a6b2-4b1e-b1d9-fe0aca94dce7.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 60,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0003-copia_bd86fe96-e2aa-45e7-9391-555d37c2352a.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 61,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9997-copia_cd627c95-7ea2-476d-86b6-c818b6f617b2.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 62,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9995-copia_8c866cf4-5d41-47f6-ad28-290acf9d3fea.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 63,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-9994-copia_62df0d0f-07f8-43f2-9fa2-bab501f73192.jpg?w=1920&wat=1&org_if_sml=1"
+                }
+            ],
+            "equipmentTypeList": [
+                "Air Conditioner",
+                "Private Pool",
+                "Warehouse",
+                "Outdoor Parking",
+                "Terrace",
+                "Independent Kitchen",
+                "Storage Room",
+                "Den"
+            ],
+            "surroundingTypeList": [
+                {
+                    "name": "Commercial Area",
+                    "place": "CommercialArea",
+                    "distanceInMeters": 450
+                },
+                {
+                    "name": "Green Spaces",
+                    "place": "GreenSpaces ",
+                    "distanceInMeters": 50
+                },
+                {
+                    "name": "Playground",
+                    "place": "Playground",
+                    "distanceInMeters": 700
+                },
+                {
+                    "name": "Transportation Facilities",
+                    "place": "TransportationFacilities",
+                    "distanceInMeters": 300
+                },
+                {
+                    "name": "Supermarket",
+                    "place": "Supermarket",
+                    "distanceInMeters": 2000
+                },
+                {
+                    "name": "Ocean",
+                    "place": "Beach",
+                    "distanceInMeters": 2200
+                }
+            ],
+            "roomTypeList": [],
+            "labels": {
+                "dropPrice": true,
+                "hidePrice": false,
+                "fullyFinanced": false
+            },
+            "agent": {
+                "id": "e167ef43-3a1c-428d-828b-10ec2c55c7d2",
+                "name": "Alexandra Khamitova",
+                "emailAddress": "alexandra.k@century21.es",
+                "role": "Broker",
+                "telephoneNumber": "",
+                "photo": "https://cdn.21online.app/v7/_c21cdn_/agent-photo_2419a2cd-ed73-49a0-a171-8033c8e3893a.png",
+                "mySiteUrl": "https://www.mysitec21.com/alexandra-k",
+                "agency": {
+                    "id": 6313,
+                    "name": "CENTURY 21 Evolution",
+                    "commercialName": "APF EVOLUTION S.L.",
+                    "licence": "0",
+                    "address": {
+                        "streetName": "Avenida Gabriel Miró",
+                        "buildingNumber": "14",
+                        "floorNumber": null,
+                        "postalCode": "03710",
+                        "locality": "Calpe",
+                        "city": "Alicante",
+                        "latitude": 38.6435072,
+                        "longitude": 0.0474966,
+                        "doorType": "DoorNumber",
+                        "fullAddress": null,
+                        "addressLocationFullName": "España, Alicante, Marina Alta, Calpe, Calpe, Calpe Pueblo"
+                    },
+                    "emailAddress": "evolution@century21.es",
+                    "telephoneNumber": "0",
+                    "logo": "https://cdn.21online.app/v7/_c21cdn_/logo-evolution_80d026f2-fbf7-4c8a-9aba-a42fac02c76f.png"
+                }
+            },
+            "externalPortals": [
+                "Idealista",
+                "Global",
+                "Trovit",
+                "Yaencontre",
+                "GreenAcres",
+                "FotoCasa",
+                "MLS España",
+                "Pisos"
+            ]
+        },
+        {
+            "prospectSellerId": 2346148,
+            "prospectStatus": "Client",
+            "propertyId": 2930436,
+            "contractNumber": "C0138-00120",
+            "price": 1800.0,
+            "businessType": "For Rent",
+            "propertyType": "Homes",
+            "propertySubType": "Single Family Home",
+            "propertyTitlePT": null,
+            "propertyDescriptionPT": null,
+            "propertyTitleES": "Estupenda casa ubicada en zona tranquila y unas inmejorables vistas al Peñon",
+            "propertyDescriptionES": "DISPONIBLE A PARTIR DE OCTUBRE 2023 PARA LARGA TEMPORADA.\nCasa de una planta con 3 dormitorios, un baño grande, cocina muy amplia y totalmente equipada y un salón luminoso confortable con acceso directo al jardín privado.\nLa casa tiene una parcela en la que podrás disfrutar de las mejores vistas hacia al mar y al Peñón de Ifach.\nTiene piscina, plaza de aparcamiento cubierta, terraza y zona de barbacoa.\nPerfecto para una familia que busca vivir en una zona tranquila.\nLa finca está muy cerca de la estación de tren de Calpe y a parada de Autobús.\nLa casa se alquila para todo el año amueblada.\nLuz, agua, basura y mantenimiento piscina son a cargo del arrendatario.\nContáctame para concretar una visita en esta maravillosa vivienda.",
+            "propertyTitleEN": "Great house located in a quiet area and unbeatable views of the Peñon",
+            "propertyDescriptionEN": "AVAILABLE FROM OCTOBER 2023 FOR LONG TERM RENTALS.\nHouse with 3 bedrooms, a large bathroom, very spacious and fully equipped kitchen and a comfortable bright living room with direct access to the private garden.\nThe house has a plot where you can enjoy the best views towards the sea and the Peñón de Ifach.\nIt has a swimming pool, covered parking space, terrace and barbecue area.\nPerfect for a family looking to live in a quiet area.\nThe farm is very close to the Calpe train station and a bus stop.\nThe house is rented for the whole year furnished.\nElectricity, water, garbage and pool maintenance are at the expense of the tenant.\nContact me to arrange a visit in this wonderful home.",
+            "propertyTitleFR": "Grande maison située dans un quartier calme et une vue imprenable sur le Peñon",
+            "propertyDescriptionFR": "DISPONIBLE À PARTIR D'OCTOBRE 2023 POUR DES LOCATIONS À LONG TERME.\nDe plain-pied avec 3 chambres, une grande salle de bain, une cuisine très spacieuse et entièrement équipée et un salon lumineux confortable avec accès direct au jardin privé.\nLa maison dispose d’un terrain où vous pourrez profiter des meilleures vues sur la mer et le Peñón de Ifach.\nIl dispose d’une piscine, d’un parking couvert, d’une terrasse et d’un barbecue.\nParfait pour une famille qui cherche à vivre dans un quartier calme.\nLa ferme est très proche de la gare de Calpe et d’un arrêt de bus.\nLa maison est louée pour toute l’année meublée.\nL’électricité, l’eau, les ordures et l’entretien de la piscine sont à la charge du locataire.\nContactez-moi pour organiser une visite dans cette merveilleuse maison.",
+            "hasLift": null,
+            "isGroundFloor": null,
+            "isTopFloor": null,
+            "grossArea": 200.00,
+            "netArea": 168.00,
+            "totalBedrooms": 3,
+            "totalWC": 1,
+            "totalRooms": null,
+            "plotArea": 840.00,
+            "totalHalfWC": null,
+            "totalParkingSpaces": 0,
+            "totalApartmentsPerFloor": null,
+            "constructionYear": 1971,
+            "floorCount": null,
+            "totalFloorsOfHouse": null,
+            "netAreaQualifiable": true,
+            "roomsQualifiable": true,
+            "wcQualifiable": true,
+            "isPrivateCondominium": true,
+            "hasSanitation": null,
+            "inLandSubdivision": null,
+            "landFormatFrontSize": null,
+            "landFormatBottomSize": null,
+            "observationsPublic": null,
+            "address": {
+                "streetName": "partida cucarres",
+                "buildingNumber": "1",
+                "floorNumber": "D",
+                "postalCode": "0370",
+                "locality": "Oltamar-Cucarres",
+                "city": "Marina Alta",
+                "latitude": 38.6531483,
+                "longitude": 0.0317369,
+                "doorType": "Door #",
+                "fullAddress": null,
+                "addressLocationFullName": " Marina Alta,  Calpe,  Oltamar-Cucarres"
+            },
+            "lifeStyleType": null,
+            "viewType": "Sea",
+            "orientationType": "South",
+            "energyPerformanceCertificateRating": null,
+            "videoURL": null,
+            "virtualRealityCode": null,
+            "listingWebSiteMasterUrl": "https://www.century21.pt/ref/C0138-00120",
+            "propertyPhotoList": [
+                {
+                    "orderNumber": 1,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0647-copia_fd54edcf-fd01-4aa1-9fac-a76e5fcb91ab.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 2,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0654-copia_2b3c488f-45a6-4d01-a7a4-672efb3cf1e1.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 3,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0649-copia_1ee12b7b-fd11-48b4-a58b-fbf93dc2a37d.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 4,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0645-copia_6ce39589-594e-44be-a05c-3086d46ff819.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 5,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0621-copia_6488fffc-23ac-4465-9a5f-9318394aedda.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 6,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0629-copia_71d0c7af-5c3c-40c4-8235-afc1cef689ac.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 7,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0628-copia_9d32aa5e-a42b-48b2-88bc-68ad2310fb7a.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 8,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0626-copia_618a4545-1a64-4981-bb16-ab727a155c6c.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 9,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0630-copia_e11ea21c-2e71-4762-8a98-40598fe7b4aa.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 10,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0631-copia_a397a985-c991-48fa-a48e-8b27f8f9bafb.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 11,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0627-copia_4d14de87-23c0-4a44-ba12-d2340328cba7.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 12,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0638-copia_c3d5f56b-edbe-4c1b-af20-31e4cb3bf7f0.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 13,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0624-copia_e2283881-9046-4540-bdf5-c27df2e1ced1.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 14,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0623-copia_c260b262-8b8f-42a6-b909-4a0272d52f3c.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 15,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0633-copia_97cd5b4e-87d0-49a8-b172-369117da6c58.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 16,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0644-copia_9e7453a4-8ccc-46a0-b498-b62aad5bdc97.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 17,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0642-copia_6018c96e-5723-4b08-993f-f6b799515513.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 18,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0648-copia_f9e9c5e8-6973-4e68-a9fb-97ac37f8a5fb.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 19,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0650-copia_52c96336-74ca-4600-9af1-13c32d75be53.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 20,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0653-copia_cce8cbe3-1a99-459e-8d20-c8b3747d2970.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 21,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0641-copia_69b679f9-584b-4dfe-b4b3-c70454d32d02.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 22,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0652-copia_8cb72141-565d-4cbb-8d67-456cb7f7c0af.jpg?w=1920&wat=1&org_if_sml=1"
+                }
+            ],
+            "equipmentTypeList": [],
+            "surroundingTypeList": [
+                {
+                    "name": "Green Spaces",
+                    "place": "GreenSpaces ",
+                    "distanceInMeters": 0
+                },
+                {
+                    "name": "Train Station",
+                    "place": "TrainStation",
+                    "distanceInMeters": 100
+                },
+                {
+                    "name": "City",
+                    "place": "City",
+                    "distanceInMeters": 1000
+                },
+                {
+                    "name": "School",
+                    "place": "School",
+                    "distanceInMeters": 500
+                },
+                {
+                    "name": "Hospital",
+                    "place": "Hospital",
+                    "distanceInMeters": 500
+                }
+            ],
+            "roomTypeList": [],
+            "labels": {
+                "dropPrice": true,
+                "hidePrice": false,
+                "fullyFinanced": false
+            },
+            "agent": {
+                "id": "13d59761-bd3f-4304-8f37-078821a16e3a",
+                "name": "Sofia Abate",
+                "emailAddress": "sofia.a@century21.es",
+                "role": "Sales Agent",
+                "telephoneNumber": "",
+                "photo": "https://cdn.21online.app/v7/_c21cdn_/agent-photo_32cfa38a-790d-41c2-8a4d-a0123fe6c12c.png",
+                "mySiteUrl": "https://www.mysitec21.com/sofia-a",
+                "agency": {
+                    "id": 6313,
+                    "name": "CENTURY 21 Evolution",
+                    "commercialName": "APF EVOLUTION S.L.",
+                    "licence": "0",
+                    "address": {
+                        "streetName": "Avenida Gabriel Miró",
+                        "buildingNumber": "14",
+                        "floorNumber": null,
+                        "postalCode": "03710",
+                        "locality": "Calpe",
+                        "city": "Alicante",
+                        "latitude": 38.6435072,
+                        "longitude": 0.0474966,
+                        "doorType": "DoorNumber",
+                        "fullAddress": null,
+                        "addressLocationFullName": "España, Alicante, Marina Alta, Calpe, Calpe, Calpe Pueblo"
+                    },
+                    "emailAddress": "evolution@century21.es",
+                    "telephoneNumber": "0",
+                    "logo": "https://cdn.21online.app/v7/_c21cdn_/logo-evolution_80d026f2-fbf7-4c8a-9aba-a42fac02c76f.png"
+                }
+            },
+            "externalPortals": [
+                "Idealista",
+                "Global",
+                "Trovit",
+                "Yaencontre",
+                "GreenAcres",
+                "FotoCasa",
+                "MLS España"
+            ]
+        },
+        {
+            "prospectSellerId": 2355045,
+            "prospectStatus": "Client",
+            "propertyId": 2939333,
+            "contractNumber": "C0138-00137",
+            "price": 482000.0,
+            "businessType": "For Sale",
+            "propertyType": "Homes",
+            "propertySubType": "Single Family Home",
+            "propertyTitlePT": null,
+            "propertyDescriptionPT": null,
+            "propertyTitleES": "Chalet independiente con espectaculares vistas y gran terreno",
+            "propertyDescriptionES": "Dos escrituras.\nUna de parcela con vivienda ( 192m2 + 825m2)\nUna de parcela rustica, con camino. No construir 2600m2Villa independiente en dos plantas de 4 dormitorios y 2 baños con vistas espectaculares, situada en una gran parcela con mucho aparcamiento, jardín y sin vecinos. \n\nEste chalet tiene dos plantas independientes. Cuando llegamos al aparcamiento parcialmente cubierto por camino de entrada independiente entramos en la primera planta por unas pequeñas escaleras exteriores. Aquí entramos en el comedor con cocina americana totalmente equipada, comedor está conectado a la terraza y tiene espectaculares vistas panorámicas del mar Mediterráneo y la vecina ciudad de Calpe y el Peñón de Ifach. Aquí también se encuentra amplio dormitorio doble muy luminoso que tiene característica especial - ducha dentro de la habitación donde se puede escapar de la vida cotidiana y y disfrutar de pequeño spa con magníficas vistas. Hay un gran armario empotrado, otro cuarto de baño que se puede acceder tanto desde el dormitorio y desde el salón-comedor. Esta planta tiene mucho almacenaje y calefacción central.\n\nLa planta superior es totalmente independiente y apta para ser utilizada por separado. Se puede acceder a ella tanto por el salón-comedor como por la gran terraza. En esta planta hay otro amplio y luminoso salón-comedor de planta abierta. Cuentan con chimenea y muchos hermosos ventanales para disfrutar de los amaneceres y las vistas. Aquí también encontrará una espaciosa cocina totalmente equipada y un baño familiar completo con calefacción. También hay un dormitorio doble con armario empotrado y otro dormitorio individual que actualmente se utiliza como trastero. Esta planta está conectada a dos terrazas separadas donde se puede disfrutar de la vida viendo amanecer o haciendo barbacoa. La terraza dispone de ducha exterior.\n\nDesde aquí subiendo las escaleras en la torre se puede acceder a la tercera planta con una habitación más espaciosa, esto podría ser utilizado a sus necesidades como una oficina o dormitorio. Y un poco más arriba tenemos solarium con inmejorables vistas donde tomar el sol todo el año.\n\nCasa tiene 192 metros cuadrados y espacio utilizable 160 metros cuadrados situado en parcela adicional de 825 metros cuadrados y también parcela rústica independiente más grande de 2.500 metros cuadrados.\n\nAl elegir esta villa se puede disfrutar de espectaculares vistas del mar Mediterráneo y las montañas que también desempeñan un papel en la protección de la casa de los fuertes vientos. Casa consta de dos plantas, pero dentro de la torre tiene dos pisos más uno dentro y otro al aire libre - solarium. Viviendo aquí tendrá fácil y rápido acceso a Calpe y Altea (carretera N-332) con todos los servicios necesarios como tiendas, cafeterías, playas, colegio, médicos etc pero también estando totalmente alejado, no teniendo vecinos, disfrutando de fantásticas vistas, paz y tranquilidad. Debido a su especial ubicación la casa es unos grados más cálida durante los meses más fríos y unos grados más fresca durante el verano.\nLa casa tiene unas vistas espectaculares al Mar Mediterráneo y a las montañas que protegen la casa de los fuertes vientos, tiene calefacción y mucha luz natural. Consta de dos plantas, pero dentro de la torre tiene otras dos (una interior y otra solarium). Tiene el privilegio de estar situada en la parte más alta de la montaña con parcela anexa de más de 2.500m2, no tiene vecinos, muy tranquila, fácil acceso tanto al pueblo de Calpe como a la carretera N-332. Gracias a la ubicación en invierno la temperatura es unos grados más cálida y en verano se mantiene unos grados más fresca.\n\nPara más información o para concertar una visita no dude en ponerse en contacto con nosotros.",
+            "propertyTitleEN": "Independent villa with spectacular views and large plot",
+            "propertyDescriptionEN": "Two floor 4 bedroom 2 bathroom independent villa with spectacular views, located on a large plot with plenty of parking, garden and no neighbours. \n\nThis villa has two independent floors. When we arrive to partially covered parking by separate gated driveway we enter first floor by little outdoor stairs. Here we enter dining room with fully equipped American-style kitchen, dining room is connected to terrace and has spectacular panoramic views of the Mediterranean Sea and the neighbouring town of Calpe and Peñón de Ifach. Here's also located  very bright spacious double bedroom that has special feature - shower inside the room where you can escape everyday life and and enjoy little spa with magnificent views. There's a large built-in wardrobe, another bathroom that can be accessed both from the bedroom and from the living-dining room. This floor has lots of storage and central heating.\n\nThe upper floor is completely independent and suitable to be used separately. You can access it both through the living-dining room or through the large terrace. On this floor there is another spacious and bright open plan living room and dining room. They feature fireplace and many beautiful large windows to enjoy sunrises and views. You also find spacious fully equipped kitchen here and a complete family bathroom with heating. There’s also one more double bedroom with built in wardrobe and another single bedroom that is currently being used as storage room. This floor is connected to two separate terraces where you can enjoy life by watching sunrise or doing barbeque. Terrace features outdoor shower.\n\nFrom here walking up the stairs in the tower you can access third floor with one more spacious room, this could be used to your needs as an office or bedroom. And little further up we have solarium with unbeatable views where you can sunbathe all year long.\n\nHouse has 192 sq.m. and usable space 160 sq.m. located on additional 825 sq.m plot  and also separate rustic plot of land bigger than 2.500 sq.m.\n\nBy choosing this villa you can enjoy spectacular views of the Mediterranean Sea and the mountains that also play role in protecting house from strong winds. House consists of two floors but inside the tower it has two more floors one inside and one outdoors - solarium. Living here you’ll have easy and quick access to Calpe and Altea (N-332 road) with all necessary amenities like shops, café, beaches, school, doctors etc but also being fully remote, having no neighbours, enjoying fantastic views, peace and tranquillity. Because of it’s special location house is few degrees warmer during colder months and few degrees cooler during the summer.\nThe house has spectacular views of the Mediterranean Sea and the mountains that protect house from strong winds, it has heating and lots of natural light. It consists of two floors, but inside the tower it has another two (one indoors and the other a solarium). It has the privilege of being located in the highest part of the mountain with plot attached of more than 2,500m2, it has no neighbours, very quiet, easy access to the town of Calpe as well as to the N-332 road. Thanks to the location in winter, the temperature is a few degrees warmer and in summer it stays a few degrees cooler.\n\nTo find out more or to arrange a viewing don’t hesitate to get in touch with us!",
+            "propertyTitleFR": "Villa indépendante avec vues spectaculaires et grand terrain",
+            "propertyDescriptionFR": "Villa indépendante de 4 chambres et 2 salles de bains sur deux étages avec des vues spectaculaires, située sur un grand terrain avec beaucoup de parking, jardin et pas de voisins. \n\nCette villa a deux étages indépendants. En arrivant au parking partiellement couvert par une allée séparée, on accède au premier étage par un petit escalier extérieur. La salle à manger est reliée à la terrasse et offre des vues panoramiques spectaculaires sur la mer Méditerranée et les villes voisines de Calpe et Penon de Ifach. C'est également ici que se trouve la chambre double spacieuse et très lumineuse qui possède une caractéristique spéciale - une douche à l'intérieur de la chambre où vous pouvez échapper à la vie quotidienne et profiter d'un petit spa avec des vues magnifiques. Il y a une grande armoire encastrée, une autre salle de bains accessible depuis la chambre et le salon-salle à manger. Cet étage dispose de nombreux rangements et du chauffage central.\n\nL'étage supérieur est complètement indépendant et peut être utilisé séparément. On y accède par le salon-salle à manger ou par la grande terrasse. A cet étage, il y a un autre salon et une salle à manger spacieux et lumineux. Ils sont dotés d'une cheminée et de nombreuses grandes fenêtres pour profiter des levers de soleil et des vues. On y trouve également une cuisine spacieuse entièrement équipée et une salle de bains familiale complète avec chauffage. Il y a également une autre chambre double avec une armoire encastrée et une autre chambre simple qui est actuellement utilisée comme pièce de rangement. Cet étage est relié à deux terrasses séparées où vous pouvez profiter de la vie en regardant le lever du soleil ou en faisant un barbecue. La terrasse est équipée d'une douche extérieure.\n\nDe là, en montant les escaliers de la tour, on accède au troisième étage avec une autre pièce spacieuse, qui peut être utilisée selon vos besoins comme bureau ou chambre à coucher. Un peu plus haut, on trouve un solarium avec une vue imprenable où l'on peut prendre le soleil toute l'année.\n\nLa maison a une superficie de 192 m² et un espace utilisable de 160 m². Elle est située sur un terrain supplémentaire de 825 m² et sur un terrain rustique séparé de plus de 2.500 m².\n\nEn choisissant cette villa, vous pourrez profiter de vues spectaculaires sur la mer Méditerranée et sur les montagnes qui jouent également un rôle dans la protection de la maison contre les vents forts. La maison est composée de deux étages, mais à l'intérieur de la tour il y a deux étages supplémentaires, un à l'intérieur et un à l'extérieur - solarium. En vivant ici, vous aurez un accès facile et rapide à Calpe et Altea (route N-332) avec toutes les commodités nécessaires comme les magasins, les cafés, les plages, l'école, les médecins, etc. mais aussi en étant complètement isolé, sans voisins, en profitant de vues fantastiques, de la paix et de la tranquillité. En raison de sa situation particulière, la maison est plus chaude de quelques degrés pendant les mois les plus froids et plus fraîche de quelques degrés pendant l'été.\nLa maison a des vues spectaculaires sur la mer Méditerranée et les montagnes qui la protègent des vents forts, elle est chauffée et bénéficie de beaucoup de lumière naturelle. Elle est composée de deux étages, mais à l'intérieur de la tour il y en a deux autres (un à l'intérieur et l'autre un solarium). Elle a le privilège d'être située dans la partie la plus haute de la montagne avec un terrain attenant de plus de 2,500m2, elle n'a pas de voisins, très calme, accès facile à la ville de Calpe ainsi qu'à la route N-332. Grâce à sa situation, la température est plus élevée de quelques degrés en hiver et plus fraîche de quelques degrés en été.\n\nPour en savoir plus ou pour organiser une visite, n'hésitez pas à nous contacter !",
+            "hasLift": null,
+            "isGroundFloor": null,
+            "isTopFloor": null,
+            "grossArea": 192.00,
+            "netArea": 160.00,
+            "totalBedrooms": 4,
+            "totalWC": 2,
+            "totalRooms": null,
+            "plotArea": 3000.00,
+            "totalHalfWC": null,
+            "totalParkingSpaces": 6,
+            "totalApartmentsPerFloor": null,
+            "constructionYear": 1970,
+            "floorCount": 2,
+            "totalFloorsOfHouse": null,
+            "netAreaQualifiable": true,
+            "roomsQualifiable": true,
+            "wcQualifiable": true,
+            "isPrivateCondominium": true,
+            "hasSanitation": null,
+            "inLandSubdivision": null,
+            "landFormatFrontSize": null,
+            "landFormatBottomSize": null,
+            "observationsPublic": "Dos escrituras.\nUna de parcela con vivienda ( 192m2 + 825m2)\nUna de parcela rustica, con camino. No construir 2600m2 ",
+            "address": {
+                "streetName": "Partida Maryvilla",
+                "buildingNumber": "94",
+                "floorNumber": "J",
+                "postalCode": "03710",
+                "locality": "Maryvilla",
+                "city": "Marina Alta",
+                "latitude": 38.63491118908365,
+                "longitude": 0.017112421494204,
+                "doorType": "Door #",
+                "fullAddress": null,
+                "addressLocationFullName": " Marina Alta,  Calpe,  Maryvilla"
+            },
+            "lifeStyleType": "Mountain",
+            "viewType": "Sea",
+            "orientationType": "East",
+            "energyPerformanceCertificateRating": "E",
+            "videoURL": null,
+            "virtualRealityCode": null,
+            "listingWebSiteMasterUrl": "https://www.century21.pt/ref/C0138-00137",
+            "propertyPhotoList": [
+                {
+                    "orderNumber": 1,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-3378-copy_f0134e3e-1a77-4b96-b458-b35843ad3116.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 2,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-3384-copy_1e8a8a8b-3bb2-4730-abaa-fd333b4b2a69.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 3,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0768-copia_79598dac-541c-49bc-8de1-da1cd0a6bbf3.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 4,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0785-copia_8d6f3670-ada0-4ff2-9970-3a042963939c.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 5,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/dji-0002-mov-00-00-22-11-imagen-fija002_835c165e-4785-440a-98e9-235981d62204.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 6,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0758-copia_4fd04ccf-da13-402d-97fa-b5e4a36c740d.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 7,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/dji-0002-mov-00-00-28-24-imagen-fija003_03b10f3b-2ce5-4ff7-936c-14d51600ba8b.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 8,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0796-copia_78cf16bf-1735-4259-9adb-266ee41227a6.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 9,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-3332-copy_4b9e1e44-65eb-4dff-97fc-bcb10d8ddb53.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 10,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0798-copia_202f520e-c2d4-4083-a656-f9e8f71f21f1.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 11,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-3334-copy_d3da29e9-0957-4d1e-9054-d1f783a314a3.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 12,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0790-copia_7c4acdeb-eef6-4151-b9bb-33ed2c400858.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 13,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0789-copia_79601e67-5414-477a-98cc-fddb4e96543b.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 14,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0788-copia_e3ab6b0a-91d4-4de6-8cf6-0971ddffde97.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 15,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0786-copia_8de70b73-f3d5-4953-a774-9e812ca79d35.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 16,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-3338-copy_788ae2c5-a75c-4497-8c47-f3212dd9485d.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 17,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-3338_7c2fc740-dd24-43f8-b504-e2dfb7cfb4af.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 18,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-3380-copy_0f6bf691-f12c-4ebb-96e1-779bbfa90f40.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 19,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0771-copia_c05ff58e-e9c4-4cca-a76a-0e0103a6ec22.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 20,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0769-copia_b12b9149-5083-4cfb-89e0-4b759991b228.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 21,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0775-copia_ac1784cc-0a58-48d4-bc85-4fd9609d479a.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 22,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0777-copia_76de3213-7665-49be-8f64-6b536e817608.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 23,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0778-copia_3a611b4b-4012-48f3-995c-e96839e68e34.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 24,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0781-copia_8b3a36b7-a0aa-42f1-8e1e-10793754bf79.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 25,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0783-copia_dae35133-5b83-42aa-99bc-22e987a10046.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 26,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0794-copia_eb1e8793-984c-445e-be54-b85b3aa53257.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 27,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-3346-copy_3476e598-0559-41ff-b178-d7e728c5fb2c.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 28,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-3327-copy_fb0369a6-e1df-4567-acbd-ec81730a7f25.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 29,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-3328-copy_9332284c-4cae-4335-a29e-ac13f201b46f.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 30,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0744-copia_629a71b6-3d69-40a7-8a9b-2b89275b0cde.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 31,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0748-copia_70ea22f2-994d-4e41-bab1-8ea2752fefe1.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 32,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0745-copia_104c1cef-65a4-40f5-8d84-5e0189816788.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 33,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0746-copia_aff0a0a8-a017-4e26-87f7-3b15491463e5.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 34,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0750-copia_2ce96bc9-4c12-4f38-9a9d-a77236f096a5.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 35,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0760-copia_91eb5aa9-fa03-4156-9894-fe052ab575b4.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 36,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0761-copia_f1c94ea7-4748-47f5-acd7-07982a466bb6.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 37,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-3321-copy_9897b248-3e11-4148-b7fe-6d25962f7b78.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 38,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-3318-copy_a9596e33-bdf6-4e5d-ae2a-e2ad6603f185.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 39,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0754-copia_1a542f73-391b-408d-ace4-ce46ee767490.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 40,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-3319-copy_8a01d2c0-957e-416c-977c-7dab58ed72cf.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 41,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0759-copia_34b4a9f3-6b83-4a60-8763-80f1cb23d15f.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 42,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-3383-copy_a36dd6db-59d6-433d-9388-de0849dd9131.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 43,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-3326-copy_43956e0e-2894-4c2a-a989-fb57154a898d.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 44,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/01-semisotano-copia_1a1699c6-84e0-4e8e-ae75-952890111ab2.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 45,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/03-planta-alta-copia_0b38c6b4-bf29-4320-b087-571f187c0411.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 46,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/02-planta-baja-copia_a7cf809d-da40-4dd3-9710-17779b6780ef.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 47,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/dji-0002-mov-00-01-07-09-imagen-fija007_d55f137f-19c7-42b7-a13d-3a5136e661bb.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 48,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/dji-0002-mov-00-02-11-11-imagen-fija010_3fb67ca0-2686-4d90-92ba-e245e21bd557.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 49,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/dji-0002-mov-00-03-09-17-imagen-fija011_25d23d6c-6f43-4520-ac4e-8f32d70a1e33.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 50,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/dji-0002-mov-00-03-40-12-imagen-fija012_90bd228a-76c6-48e4-8166-a4256666cc43.jpg?w=1920&wat=1&org_if_sml=1"
+                }
+            ],
+            "equipmentTypeList": [
+                "Hot Water",
+                "Alarm",
+                "Garden",
+                "Central Heating",
+                "Wardrobes",
+                "Fireplace",
+                "Kitchenet",
+                "Rustic",
+                "Bar Foyer",
+                "Warehouse",
+                "Outdoor Parking",
+                "Indoor Parking",
+                "Terrace",
+                "Independent Kitchen",
+                "Equipped Kitchen",
+                "Courtyard",
+                "Balcony",
+                "Den",
+                "Furnished",
+                "Parking Garage Visit"
+            ],
+            "surroundingTypeList": [
+                {
+                    "name": "Ocean",
+                    "place": "Beach",
+                    "distanceInMeters": 1400
+                },
+                {
+                    "name": "Sea Harbour",
+                    "place": "SeaHarbour",
+                    "distanceInMeters": 2000
+                },
+                {
+                    "name": "Town Centre",
+                    "place": "TownCentre",
+                    "distanceInMeters": 2500
+                }
+            ],
+            "roomTypeList": [],
+            "labels": {
+                "dropPrice": true,
+                "hidePrice": false,
+                "fullyFinanced": false
+            },
+            "agent": {
+                "id": "a9b5b08c-3844-429a-902e-8372fdd4720d",
+                "name": "Anita Stupele",
+                "emailAddress": "anita.s@century21.es",
+                "role": "Sales Agent",
+                "telephoneNumber": "",
+                "photo": "https://cdn.21online.app/v7/_c21cdn_/agent-photo_b1850bda-0799-49be-a8a2-50d87f6d9793.png",
+                "mySiteUrl": "https://www.mysitec21.com/anita-s",
+                "agency": {
+                    "id": 6313,
+                    "name": "CENTURY 21 Evolution",
+                    "commercialName": "APF EVOLUTION S.L.",
+                    "licence": "0",
+                    "address": {
+                        "streetName": "Avenida Gabriel Miró",
+                        "buildingNumber": "14",
+                        "floorNumber": null,
+                        "postalCode": "03710",
+                        "locality": "Calpe",
+                        "city": "Alicante",
+                        "latitude": 38.6435072,
+                        "longitude": 0.0474966,
+                        "doorType": "DoorNumber",
+                        "fullAddress": null,
+                        "addressLocationFullName": "España, Alicante, Marina Alta, Calpe, Calpe, Calpe Pueblo"
+                    },
+                    "emailAddress": "evolution@century21.es",
+                    "telephoneNumber": "0",
+                    "logo": "https://cdn.21online.app/v7/_c21cdn_/logo-evolution_80d026f2-fbf7-4c8a-9aba-a42fac02c76f.png"
+                }
+            },
+            "externalPortals": [
+                "Idealista",
+                "Global",
+                "Trovit",
+                "Yaencontre",
+                "GreenAcres",
+                "FotoCasa",
+                "MLS España"
+            ]
+        },
+        {
+            "prospectSellerId": 2359573,
+            "prospectStatus": "Client",
+            "propertyId": 2943861,
+            "contractNumber": "C0138-00146",
+            "price": 850000.0,
+            "businessType": "For Sale",
+            "propertyType": "Homes",
+            "propertySubType": "Chalet",
+            "propertyTitlePT": null,
+            "propertyDescriptionPT": null,
+            "propertyTitleES": "Entre el Golf y la Playa, encontramos esta maravilla Mediterránea con vistas panorámicas al Golf de Altea y la montaña",
+            "propertyDescriptionES": "Localizada en primera línea del campo de Golf de Altea, esta casa  es ideal para los amantes del golf, la montaña y la playa. \nDesde sus balcones y terrazas podemos ver el campo de golf de Don Cayo,, que cuenta con unas preciosas instalaciones con restaurantes, gimnasio, y oficinas. \n\nEl vecindario es muy tranquilo, de alto poder adquisitivo, y exclusivo. \nEn unos escasos cinco minutos en coche llegamos al pueblo de Altea la Vella, a la entrada de la autopista gratuita del Mediterráneo, o al pueblo de Altea.  En aproximadamente 20 minutos llegamos a Calpe, o al puerto de Mascarat. \n\nLa casa fue construida en los años 90, y es de una estructura muy sólida, con un plan abierto para que todas las estancias disftruten de mucha luz. \n\nLa planta baja está destinada a las habitaciones, una de ellas con baño en Suite. Todas las habitaciones tienen salida directa a la piscina, donde encontramos otro baño completo. \n\nEn la planta alta hay una gran estancia distribuida en salón, comedor, despacho, y zona de acceso. Asimisno encontramos una gran cocina independiente con salida a la terraza que comunica la planta alta. \n\nLa parcela es grande, y dispone de aparcamiento para varios coches en el exterior, así como un garaje cerrado doble. \n\nEste garaje, podría transformarse con poco trabajo en un apartamento independiente. \n\nAunque la casa tiene años, se encuentra en un estado impoluto, impecable, y preparada para entrar a vivir. \n\nLa parcela tiene acceso por una puerta peatonal con portero automático, y una entrada doble para coches. \n\nLa casa cuenta con calefacción central, y se vende completamente amueblada. \n\nLa zona de pinos que delimita el campo de golf podría ser podada para disfrutar de más vistas al campo de golf, pero también perdería la privacidad que separa las pistas de Golf de la casa. \n \nSe trata de una vivienda única para aquellos que quieran disfrutar de una vida tranquila, jugando al Golf o yendo a la playa, pero también para los que quieran estar cerca de una ciudad disfrutando a la vez del campo. \n\n¡No dudes en visitarla! ",
+            "propertyTitleEN": "Between the Golf and the Beach, we find this Mediterranean wonder with panoramic views of the Golf of Altea and the mountains",
+            "propertyDescriptionEN": "Located on the first line of the Altea golf course, this house is ideal for golf, mountain and beach lovers.\nFrom its balconies and terraces we can see the Don Cayo golf course, which has beautiful facilities with restaurants, a gym, and offices.\n\nThe neighborhood is very quiet, high net worth, and exclusive.\nIn just five minutes by car we reach the town of Altea la Vella, at the entrance of the free Mediterranean highway, or the town of Altea. In approximately 20 minutes we reach Calpe, or the port of Mascarat.\n\nThe house was built in the 90s, and it has a very solid structure, with an open plan so that all rooms enjoy a lot of light.\n\nThe ground floor is used for the bedrooms, one of them with an en-suite bathroom. All the rooms have direct access to the pool, where we find another complete bathroom.\n\nOn the upper floor there is a large room distributed in a living room, dining room, office, and access area. Likewise, we find a large independent kitchen with access to the terrace that connects the upper floor.\n\nThe plot is large, and has parking for several cars outside, as well as a double closed garage.\n\nThis garage could be transformed with little work into an independent apartment.\n\nAlthough the house is years old, it is in a pristine, impeccable state, and ready to move into.\n\nThe plot has access through a pedestrian door with an intercom, and a double entrance for cars.\n\nThe house has central heating, and is sold fully furnished.\n\nThe area of ​​pine trees that delimits the golf course could be pruned to enjoy more views of the golf course, but it would also lose the privacy that separates the golf courses from the house.\n \nIt is a unique home for those who want to enjoy a quiet life, playing golf or going to the beach, but also for those who want to be close to a city while enjoying the countryside.\n\nDo not hesitate to visit it!",
+            "propertyTitleFR": "Entre le golf et la plage, nous trouvons cette merveille méditerranéenne avec vue panoramique sur le golf d'Altea et les montagnes",
+            "propertyDescriptionFR": "Située en première ligne du parcours de golf d'Altea, cette maison est idéale pour les amoureux du golf, de la montagne et de la plage.\nDe ses balcons et terrasses, on aperçoit le terrain de golf Don Cayo, qui possède de belles installations avec des restaurants, une salle de sport et des bureaux.\n\nLe quartier est très calme, fortuné et exclusif.\nEn seulement cinq minutes en voiture, nous atteignons la ville d'Altea la Vella, à l'entrée de l'autoroute gratuite de la Méditerranée, ou la ville d'Altea. En 20 minutes environ, nous atteignons Calpe, ou le port de Mascarat.\n\nLa maison a été construite dans les années 90 et possède une structure très solide, avec un plan ouvert afin que toutes les pièces bénéficient de beaucoup de lumière.\n\nLe rez-de-chaussée est utilisé pour les chambres, dont une avec une salle de bain attenante. Toutes les chambres ont un accès direct à la piscine, où l'on trouve une autre salle de bain complète.\n\nÀ l'étage supérieur, il y a une grande pièce distribuée dans un salon, une salle à manger, un bureau et une zone d'accès. De même, nous trouvons une grande cuisine indépendante avec accès à la terrasse qui relie l'étage supérieur.\n\nLe terrain est grand et dispose d'un parking pour plusieurs voitures à l'extérieur, ainsi que d'un double garage fermé.\n\nCe garage pourrait être transformé avec peu de travaux en un appartement indépendant.\n\nBien que la maison ait des années, elle est dans un état impeccable et prête à emménager.\n\nLe terrain est accessible par une porte piétonne avec interphone et une double entrée pour les voitures.\n\nLa maison dispose du chauffage central et est vendue entièrement meublée.\n\nLa zone de pins qui délimite le golf pourrait être taillée pour profiter de plus de vues sur le golf, mais elle perdrait également l'intimité qui sépare les golfs de la maison.\n \nC'est une maison unique pour ceux qui veulent profiter d'une vie tranquille, jouer au golf ou aller à la plage, mais aussi pour ceux qui veulent être proches d'une ville tout en profitant de la campagne.\n\nN'hésitez pas à le visiter !",
+            "hasLift": null,
+            "isGroundFloor": null,
+            "isTopFloor": null,
+            "grossArea": 390.00,
+            "netArea": 389.00,
+            "totalBedrooms": 3,
+            "totalWC": 3,
+            "totalRooms": null,
+            "plotArea": 1118.00,
+            "totalHalfWC": null,
+            "totalParkingSpaces": 2,
+            "totalApartmentsPerFloor": 1,
+            "constructionYear": 1988,
+            "floorCount": 2,
+            "totalFloorsOfHouse": null,
+            "netAreaQualifiable": true,
+            "roomsQualifiable": true,
+            "wcQualifiable": true,
+            "isPrivateCondominium": true,
+            "hasSanitation": null,
+            "inLandSubdivision": null,
+            "landFormatFrontSize": null,
+            "landFormatBottomSize": null,
+            "observationsPublic": null,
+            "address": {
+                "streetName": "Calle Moraira",
+                "buildingNumber": "9",
+                "floorNumber": null,
+                "postalCode": "03590",
+                "locality": "Altea la Vella",
+                "city": "Marina Baja",
+                "latitude": 38.63135958348997,
+                "longitude": -0.031293094548686895,
+                "doorType": "Door #",
+                "fullAddress": null,
+                "addressLocationFullName": " Marina Baja,  Altea,  Altea la Vella"
+            },
+            "lifeStyleType": "Mountain",
+            "viewType": "Golf",
+            "orientationType": "South/West",
+            "energyPerformanceCertificateRating": "D",
+            "videoURL": null,
+            "virtualRealityCode": "https://my.matterport.com/show/?m=ofFqJdnEK2k",
+            "listingWebSiteMasterUrl": "https://www.century21.pt/ref/C0138-00146",
+            "propertyPhotoList": [
+                {
+                    "orderNumber": 1,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/dji-0284-copia_69913da1-25c1-4b07-9c9b-df41533ce32b.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 2,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1008-copia_2afcde8b-d77d-45bf-bf2b-37a38cb391b8.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 3,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0999-copia_2d2c8499-dc3b-4b39-b47d-70468898e779.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 4,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1001-copia_3e1b0dca-144e-49fb-9b64-8d246bf13eb6.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 5,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1020-copia_4294f073-cb6f-4397-b83d-e2fba70ff3ee.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 6,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1016-copia_cc8c3247-244e-4021-a7d6-7410f523e3b0.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 7,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0943-copia_ec6942b2-9417-4573-811c-770bf01e74cc.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 8,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0944-copia_386f749c-e645-4d8c-887c-60667444b9bc.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 9,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0945-copia_0e33a4b7-b04c-486e-ae50-81041c4b77d8.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 10,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0946-copia_1358f5da-178d-4f21-9256-763797f6ab2e.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 11,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0947-copia_b163f80a-997d-4675-8fc9-ed701292fcc7.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 12,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0957-copia_181056a5-0f9c-4d44-8896-ce38a5fe1b0f.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 13,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1017-copia_09356141-a79d-4722-95d9-05c951b47677.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 14,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0949-copia_c3543d35-d879-43fb-8c5e-0cbe32df250d.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 15,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0956-copia_cba82bd9-8ba5-4e3b-b3ad-54ffbe5aedd6.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 16,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0958-copia_d965aeec-7d2c-4a6b-97a8-0f8290d6dc33.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 17,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0959-copia_57848b8d-373d-4597-baf5-2ce3df31f10c.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 18,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0962-copia_c8c538d5-42d2-4f58-a528-bf74f2385b66.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 19,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0969-copia_81071198-e23d-4885-8f8d-89e91a62c63b.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 20,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0973-copia_fe87b70b-5327-4db6-884b-22895ed9f918.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 21,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0975-copia_1a01a8ea-7876-4124-ba8f-9beb1fdcc30b.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 22,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0976-copia_2917eecb-1c8f-40e3-adcc-495fc748a223.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 23,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0977-copia_73e05ec1-b474-4734-aab0-6c0e62081a62.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 24,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0989-copia_c1e04c1d-0028-49a5-8551-284e9f8f12c7.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 25,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0967-copia_f116f5c0-4689-4322-8155-cb3fe6eac8c6.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 26,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0966-copia_828778ec-5e93-4ff5-b34c-79759e7181f4.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 27,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0979-copia_38034b49-ddb1-41a9-ae5c-c844c18867c3.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 28,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0978-copia_f931497c-f14d-4ec2-aadf-c704f49aac4d.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 29,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0981-copia_6440ffd2-86a5-40a2-93f8-297ce66abb1a.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 30,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0985-copia_390e3f36-3b53-44a2-9ba7-e2192b3925e0.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 31,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0987-copia_951585dc-6309-42c0-b0e1-347a6878e484.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 32,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0988-copia_4cdd1138-0a2b-4c88-9793-a461fed2463e.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 33,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0994-copia_5153e3f3-9a27-4dbe-ac76-9320acfee073.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 34,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0995-copia_183b4cf1-c19a-4fea-a5d2-ae4d2d28fe0e.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 35,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0997-copia_bb66dfe6-a81c-4c5a-af2b-26921fa8fc54.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 36,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0991-copia_90136b98-1d8d-46f2-8168-de1a235f53be.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 37,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1003-copia_c4371db0-4a38-4ca4-bf76-f60403a4b99a.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 38,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1007-copia_976d3b2a-75b2-43c9-a9e0-fb6abce04566.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 39,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1006-copia_7440507c-05af-4c4d-a4a7-9d54a660f178.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 40,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1019-copia_99e34cd8-1497-4b82-baf2-d8259b6b30b2.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 41,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1015-copia_f4e36bfe-3522-40a2-b9ea-127d82545e43.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 42,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1004-copia_10008c8a-a55a-4da9-a08c-b4d084a6f5b7.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 43,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0983-copia_a2c4d795-9a5d-448f-9e6e-8b4a0bbdfdcc.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 44,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0980-copia_e3b103f5-7acc-4e29-a61b-8ac40564cfa9.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 45,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1013-copia_fcd69d7f-6588-48ad-bcdb-69b7b30e96a6.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 46,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/dji-0285-copia_33ce71a0-883d-4be4-8a91-f2bdf629fc92.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 47,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/dji-0275-copia_b1bfa0a5-29b6-485d-9133-c619904e369b.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 48,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1024-copia_2d3a65f6-61b2-40dd-976d-c5b39c5239b0.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 49,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1029-copia_73175cff-8f7d-497c-9a9c-79eec32859a1.jpg?w=1920&wat=1&org_if_sml=1"
+                }
+            ],
+            "equipmentTypeList": [
+                "Hot Water",
+                "Alarm",
+                "Garden",
+                "Central Heating",
+                "Wardrobes",
+                "Private Pool",
+                "Garage",
+                "Indoor Parking",
+                "Terrace",
+                "Independent Kitchen",
+                "Furnished"
+            ],
+            "surroundingTypeList": [
+                {
+                    "name": "Golf Course",
+                    "place": "GolfCourse",
+                    "distanceInMeters": 100
+                },
+                {
+                    "name": "Ocean",
+                    "place": "Beach",
+                    "distanceInMeters": 5000
+                },
+                {
+                    "name": "City",
+                    "place": "City",
+                    "distanceInMeters": 5800
+                },
+                {
+                    "name": "City",
+                    "place": "City",
+                    "distanceInMeters": 1200
+                },
+                {
+                    "name": "Supermarket",
+                    "place": "Supermarket",
+                    "distanceInMeters": 6000
+                },
+                {
+                    "name": "Supermarket",
+                    "place": "Supermarket",
+                    "distanceInMeters": 2000
+                },
+                {
+                    "name": "City",
+                    "place": "City",
+                    "distanceInMeters": 3000
+                }
+            ],
+            "roomTypeList": [],
+            "labels": {
+                "dropPrice": true,
+                "hidePrice": false,
+                "fullyFinanced": false
+            },
+            "agent": {
+                "id": "21a86cf6-2882-422a-ab90-59b8c704808e",
+                "name": "Pablo Faelli Abiega",
+                "emailAddress": "pablo.f@century21.es",
+                "role": "Broker",
+                "telephoneNumber": "",
+                "photo": "https://cdn.21online.app/v7/_c21cdn_/agent-photo_3c41df43-44d1-4024-9691-5ff8e9250c63.png",
+                "mySiteUrl": "https://www.mysitec21.com/pablo-f",
+                "agency": {
+                    "id": 6313,
+                    "name": "CENTURY 21 Evolution",
+                    "commercialName": "APF EVOLUTION S.L.",
+                    "licence": "0",
+                    "address": {
+                        "streetName": "Avenida Gabriel Miró",
+                        "buildingNumber": "14",
+                        "floorNumber": null,
+                        "postalCode": "03710",
+                        "locality": "Calpe",
+                        "city": "Alicante",
+                        "latitude": 38.6435072,
+                        "longitude": 0.0474966,
+                        "doorType": "DoorNumber",
+                        "fullAddress": null,
+                        "addressLocationFullName": "España, Alicante, Marina Alta, Calpe, Calpe, Calpe Pueblo"
+                    },
+                    "emailAddress": "evolution@century21.es",
+                    "telephoneNumber": "0",
+                    "logo": "https://cdn.21online.app/v7/_c21cdn_/logo-evolution_80d026f2-fbf7-4c8a-9aba-a42fac02c76f.png"
+                }
+            },
+            "externalPortals": [
+                "Idealista",
+                "Global",
+                "Trovit",
+                "Yaencontre",
+                "GreenAcres",
+                "FotoCasa",
+                "MLS España"
+            ]
+        },
+        {
+            "prospectSellerId": 2360612,
+            "prospectStatus": "Client",
+            "propertyId": 2944900,
+            "contractNumber": "C0138-00147",
+            "price": 2200000.0,
+            "businessType": "For Sale",
+            "propertyType": "Homes",
+            "propertySubType": "Single Family Home",
+            "propertyTitlePT": null,
+            "propertyDescriptionPT": null,
+            "propertyTitleES": "Paraje único con 2 magníficas casas en la zona de Altea La Vella",
+            "propertyDescriptionES": "Paraje único con 2 magníficas casas (490m2 cada una, una totalmente construida y equipada y otra por terminar con 2400m2 de parcela) con piscinas y maravillosas vistas al mar, montaña y club de golf. Se encuentra en la zona de Altea La Vella, tan cerca del club de golf que podrá jugar al golf desde su terraza, con un diseño exclusivo y carácter propio para disfrutar de las vistas al mar y del benigno clima mediterráneo.\n\nEsta vivienda se distribuye en tres plantas con ascensor, convirtiéndola en una vivienda práctica y de lujo.\n\nEn la entrada de la planta superior se encuentran 2 magníficos dormitorios equipados con lujosos muebles y baños. Hay un ascensor que conecta los 3 pisos.\n\nEn la planta principal hay 3 dormitorios y baño así como amplia zona de día. Aquí podemos encontrar la cocina completamente abierta al comedor y al salón, desde donde se accede directamente a la terraza. También hay una salida a la barbacoa directamente desde la cocina.\n\nEn la planta baja hay 2 dormitorios más con zona de cocina americana, amplio baño y salón, trastero, zona técnica. Puede tener acceso directo desde la planta principal por el exterior y convertirlo en un apartamento independiente.\n\nEn la terraza se encuentra la piscina con zona de relax para disfrutar del sol o de una cena en la barbacoa, así como acceso a las zonas ajardinadas.\n\n\nTambién hay una plaza de garaje para 4 coches.\nUbicación: Altea La Vella, Altea Golf, Alicante\nm2 parcela: 2400 m2\nm2 totales construidos: 490 m2 + 490 m2\nNúmero de dormitorios: 7\nNúmero de baños: 4\nEstado: 1 casa construida, 2da casa para terminar obras interiores\n\nOportunidad única de alquiler con derecho a compra posterior.",
+            "propertyTitleEN": "Unique spot with 2 magnificent houses in Altea La Vella",
+            "propertyDescriptionEN": "Unique spot with 2 magnificent houses (490m2 each, one fully built and equipped and the other one to finish with 2400m2 plot area) with pools and marvellous views to the sea, mountains and golf club. It is located in Altea La Vella area so close to golf club you can play golf from your terrace, with an exclusive design and its own character to enjoy the sea views and the benign Mediterranean climate. \n\nThis home is distributed into three floors with the elevator, turning it into a practical and luxury house.\n \n\nIn the entrance on the upper floor you can find 2 magnificent bedrooms equipped with luxurious furniture and bathrooms. There is an elevator connecting all 3 floors. \n\n In the main floor there are 3 bedrooms and bathroom as well as spacious daily area. Here we can find the kitchen completely open to the dining room and living room, from where you can directly access to the terrace. There is also an exit to the barbecue directly from the kitchen.\n \n\nIn the ground floor there are 2 more bedrooms with a kitchenette area, spacious bathroom and living room, storage room, technical area. You can have direct access there from the main floor via outside and convert it to an independent apartment.\n \n On the terrace, you can find the pool with a relaxing area to enjoy the sun or a dinner at the barbecue, as well as access to the garden zones.\n\n There is also a garage space for 4 cars\n Location: Altea La Vella, Altea Golf, Alicante\n Sqm plot: 2400 sqm\n Total built sqm: 490 sqm + 490sqm\n Number of bedrooms: 7\n Number of bathrooms: 4\n Status: 1 house built, 2nd house to finish interior works\n\nUnique opportunity to rent with the right to buy later.",
+            "propertyTitleFR": "Magnifique opportunité dans la région d'Altea La Vella",
+            "propertyDescriptionFR": "Cadre unique avec 2 magnifiques maisons (490m2 chacune, une entièrement construite et équipée et une autre à finir avec un terrain de 2400m2) avec piscines et vues magnifiques sur la mer, les montagnes et le club de golf. Il est situé dans le quartier d'Altea La Vella, si proche du club de golf que vous pouvez jouer au golf depuis votre terrasse, avec un design exclusif et son propre caractère pour profiter de la vue sur la mer et du doux climat méditerranéen.\n\nCette maison est répartie sur trois étages avec ascenseur, ce qui en fait une maison pratique et luxueuse.\n\nA l'entrée à l'étage supérieur vous trouverez 2 magnifiques chambres équipées de meubles luxueux et de salles de bains. Il y a un ascenseur qui relie les 3 étages.\n\nAu rez-de-chaussée, il y a 3 chambres et une salle de bain ainsi qu'un grand espace jour. Ici, nous pouvons trouver la cuisine complètement ouverte sur la salle à manger et le salon, d'où il y a un accès direct à la terrasse. Il y a aussi une sortie au barbecue directement de la cuisine.\n\nAu rez-de-chaussée il y a 2 autres chambres avec kitchenette, grande salle de bain et salon, débarras, local technique. Vous pouvez avoir un accès direct depuis le rez-de-chaussée depuis l'extérieur et le transformer en un appartement séparé.\n\nSur la terrasse se trouve la piscine avec un espace détente pour profiter du soleil ou d'un dîner barbecue, ainsi que l'accès aux espaces verts.\n\n\nIl y a aussi un garage pour 4 voitures.\nLieu: Altea La Vella, Altea Golf, Alicante\nm2 terrain : 2400 m2\ntotal m2 construit : 490 m2 + 490 m2\nNombre de chambres : 7\nNombre de salles de bain : 4\nStatut : 1 maison construite, 2ème maison à terminer travaux intérieurs\n\nOpportunité de location unique avec le droit d'acheter plus tard.",
+            "hasLift": null,
+            "isGroundFloor": null,
+            "isTopFloor": null,
+            "grossArea": 490.00,
+            "netArea": 480.00,
+            "totalBedrooms": 7,
+            "totalWC": 6,
+            "totalRooms": null,
+            "plotArea": 2400.00,
+            "totalHalfWC": null,
+            "totalParkingSpaces": 4,
+            "totalApartmentsPerFloor": 2,
+            "constructionYear": 2014,
+            "floorCount": 3,
+            "totalFloorsOfHouse": null,
+            "netAreaQualifiable": true,
+            "roomsQualifiable": true,
+            "wcQualifiable": true,
+            "isPrivateCondominium": true,
+            "hasSanitation": null,
+            "inLandSubdivision": null,
+            "landFormatFrontSize": null,
+            "landFormatBottomSize": null,
+            "observationsPublic": null,
+            "address": {
+                "streetName": "Moraira 3 y 5",
+                "buildingNumber": "3  y 5",
+                "floorNumber": null,
+                "postalCode": "03599",
+                "locality": "Altea la Vella",
+                "city": "Marina Baja",
+                "latitude": 38.63475754709904,
+                "longitude": -0.034479158982918534,
+                "doorType": "Door #",
+                "fullAddress": null,
+                "addressLocationFullName": " Marina Baja,  Altea,  Altea la Vella"
+            },
+            "lifeStyleType": "Beach",
+            "viewType": "Golf",
+            "orientationType": "South",
+            "energyPerformanceCertificateRating": null,
+            "videoURL": "https://youtu.be/nvAmvzW_AHw",
+            "virtualRealityCode": null,
+            "listingWebSiteMasterUrl": "https://www.century21.pt/ref/C0138-00147",
+            "propertyPhotoList": [
+                {
+                    "orderNumber": 1,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/dji-0281-copia_97cf600f-17e5-423c-b27f-ce5c9db310ce.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 2,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1731-copia_bcd8b727-d188-4e36-b46c-719f4da92ae6.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 3,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/dji-0273-copia_e86b5a70-cfdd-418d-bdd7-aa932999a4e8.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 4,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/dji-0275-copia_ee6fb0d5-e697-44c6-8b40-6fc4290f2818.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 5,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1665-copia_f5647f2c-e6e9-4f21-8473-2784fa5286bf.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 6,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/dji-0305-copia_62285b64-b4ad-4237-98db-1b86d7aec21f.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 7,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1670-copia_ef925287-3b11-46c0-b7ef-3c0c6abfb734.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 8,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1667-copia_0cdde6bd-1f4f-4308-9ef2-1b5fd189453f.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 9,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1681-copia_98cbafae-b3bc-4b1e-8ac7-d90b1daea292.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 10,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1705-copia_63c181b5-4afa-4da8-a040-cbd2a438687c.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 11,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1682-copia_60f86eee-77e3-464b-92ff-21c96fb76730.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 12,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1710-copia_60d8dd47-abcf-4c66-8e97-1dd6f0dfff97.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 13,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1712-copia_37519b67-5752-49b4-b373-dfb50d7b8dc5.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 14,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1706-copia_55e9c36d-e235-4956-ad35-ff36768f0b44.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 15,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1678-copia_ad84f54e-ca2d-4214-9113-bc91cd2bcdee.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 16,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1674-copia_db939245-6298-4b72-8593-48419d0434ef.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 17,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1675-copia_df3433c2-2c9d-44c5-a0f6-e1f4b04ab6dc.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 18,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1668-copia_10f840d2-8fc0-4a8f-a3f7-9cae334faccd.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 19,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1683-copia_7298eda0-1353-4c0a-a1fa-6620493947fc.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 20,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1684-copia_6115b6f2-34f5-461f-bd69-2613aaf9c6bf.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 21,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1714-copia_f92d59f4-4509-4413-bbf2-ea12b42cd4c5.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 22,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1699-copia_bb2204fb-4d6b-4514-b74b-ec0cd3e5062f.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 23,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1672-copia_1139aabf-e7ff-40f0-9d20-32f52c0e55bd.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 24,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1686-copia_01f9162d-5326-460a-9c6a-bb5275c63daa.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 25,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1691-copia_519feca2-05d1-443c-b6c4-47ede783a93b.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 26,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1696-copia_484638af-6353-42ba-8885-63bc3b5e0ca0.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 27,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1697-copia_1c87dd8d-7a81-400b-ac08-a415a3b74ef3.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 28,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1695-copia_5073dd14-6a28-48f0-a275-1184a88521d4.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 29,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1703-copia_771fc540-cb80-4397-a00e-9e402a964e52.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 30,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1708-copia_14e77b00-a153-4777-8bf3-a321a586fbef.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 31,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1709-copia_125b5bc7-093e-450e-bbd7-d3bec7a385f5.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 32,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1711-copia_bd99524d-fe7a-4c47-abf1-db7e672ca224.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 33,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1713-copia_fcc2984e-febe-4ddd-9784-95343d6ae4f0.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 34,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1715-copia_7c5a4877-eeb5-47c9-821d-cd46c82e5ada.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 35,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1716-copia_23b26b67-3507-4f32-9cbb-9cd015509e7a.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 36,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1717-copia_0129e8b5-803d-4833-a4aa-bc787eccb04a.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 37,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1721-copia_86836778-e620-492c-a6ea-9fa790daf195.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 38,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1689-copia_23780a74-d632-4d47-b2fd-9d4c64a48057.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 39,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1722-copia_eac94252-acc0-4a94-b33f-21c4491516f6.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 40,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1676-copia_f2c79586-24ac-4f34-871d-026597bebbb0.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 41,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1701-copia_26885f4e-a0dc-41a3-9989-4d0001f72d81.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 42,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1752-copia_bd29e188-2756-45d7-856b-ce507e621231.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 43,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1692-copia_0fb9658c-3dae-4309-98ff-fecb910f7f3c.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 44,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1720-copia_1cb85bc3-c8e0-439b-81f7-a94e95cd7912.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 45,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1727-copia_b0827c68-227f-4d58-a463-924d31234bf2.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 46,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1718-copia_88ff0c72-73b8-481d-aea0-98d9c1ceb404.jpg?w=1920&wat=1&org_if_sml=1"
+                },
+                {
+                    "orderNumber": 47,
+                    "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-1666-copia_abd00841-2bda-432a-99e5-00949debac97.jpg?w=1920&wat=1&org_if_sml=1"
+                }
+            ],
+            "equipmentTypeList": [
+                "Barbecue",
+                "Hot Water",
+                "Alarm",
+                "Garden",
+                "Central Heating",
+                "Electric Shutters",
+                "Fire Detector",
+                "Private Pool",
+                "Double Glass",
+                "Garage",
+                "Automatic Access Control",
+                "Central Air Conditioning",
+                "Warehouse",
+                "Equipped Kitchen",
+                "PVC Windows",
+                "Storage Room",
+                "Courtyard",
+                "Balcony",
+                "Furnished"
+            ],
+            "surroundingTypeList": [
+                {
+                    "name": "Golf Course",
+                    "place": "GolfCourse",
+                    "distanceInMeters": 50
+                },
+                {
+                    "name": "School",
+                    "place": "School",
+                    "distanceInMeters": 500
+                }
+            ],
+            "roomTypeList": [],
+            "labels": {
+                "dropPrice": false,
+                "hidePrice": false,
+                "fullyFinanced": false
+            },
+            "agent": {
+                "id": "6d9525b5-368b-46f0-addf-f1c80bde547a",
+                "name": "Anastasia Alekseeva",
+                "emailAddress": "anastasia.a@century21.es",
+                "role": "Sales Agent",
+                "telephoneNumber": "",
+                "photo": "https://cdn.21online.app/v7/_c21cdn_/agent-photo_e3dd27db-6bbd-44d5-9244-343dec77048f.png",
+                "mySiteUrl": "https://www.mysitec21.com/anastasia-a",
+                "agency": {
+                    "id": 6313,
+                    "name": "CENTURY 21 Evolution",
+                    "commercialName": "APF EVOLUTION S.L.",
+                    "licence": "0",
+                    "address": {
+                        "streetName": "Avenida Gabriel Miró",
+                        "buildingNumber": "14",
+                        "floorNumber": null,
+                        "postalCode": "03710",
+                        "locality": "Calpe",
+                        "city": "Alicante",
+                        "latitude": 38.6435072,
+                        "longitude": 0.0474966,
+                        "doorType": "DoorNumber",
+                        "fullAddress": null,
+                        "addressLocationFullName": "España, Alicante, Marina Alta, Calpe, Calpe, Calpe Pueblo"
+                    },
+                    "emailAddress": "evolution@century21.es",
+                    "telephoneNumber": "0",
+                    "logo": "https://cdn.21online.app/v7/_c21cdn_/logo-evolution_80d026f2-fbf7-4c8a-9aba-a42fac02c76f.png"
+                }
+            },
+            "externalPortals": [
+                "Idealista",
+                "Global",
+                "Trovit",
+                "Yaencontre",
+                "GreenAcres",
+                "FotoCasa",
+                "MLS España"
+            ]
+        }
+    ],
+    "status": "ok",
+    "isSuccess": true,
+    "successMessage": null,
+    "errors": null,
+    "validationMessages": null
+}

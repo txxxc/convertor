@@ -2,307 +2,85 @@ const builder = require('xmlbuilder');
 const http = require('http');
 const axios = require('axios');
 const url = require('url');
-async function start(prod) {
-    console.log(`Starting prod=${prod} script.`);
-    if(prod === `false`) {
-        let source = `
-    {
-        "pageIndex": 1,
-        "totalPages": 4,
-        "totalCount": 237,
-        "pageSize": 50,
-        "hasPagingData": true,
-        "items": [
-            {
-                "prospectSellerId": 2301976,
-                "prospectStatus": "Cliente",
-                "propertyId": 2886247,
-                "contractNumber": "C0138-00001",
-                "price": 155000.0,
-                "businessType": "Venda",
-                "propertyType": "Apartamento",
-                "propertySubType": "Andar",
-                "propertyTitlePT": null,
-                "propertyDescriptionPT": null,
-                "propertyTitleES": "Fantástico apartamento con vistas panorámicas",
-                "propertyDescriptionES": "Este apartamento ha sido reformado integralmente y se encuentra nuevo, a estrenar. Gracias a la localización disfruta de unas magníficas vistas al mar, a la playa de la Fosa en Calpe, y recibe el sol durante todo el día. \n\nCuenta con un amplio dormitorio, un salón con cocina americana, un cuarto de baño con ducha  y una soleada terraza con vistas al mar y  al Peñón de Ifach. \n\nEl edificio cuenta con acceso adaptado para discapacitados, dos ascensores, parking exterior y se encuentra a 100 metros de las playas de arena. ",
-                "propertyTitleEN": "Fantastic apartment with panoramic views",
-                "propertyDescriptionEN": "This apartment has been completely renovated and is new, brand new.\n\nThanks to its location, it enjoys magnificent views of the sea, La Fosa beach in Calpe, and receives the sun throughout the day.\n\nIt has a large bedroom, a living room with a kitchenette, a bathroom with a shower and a sunny terrace with views of the sea and the Peñón de Ifach.\n\nThe building has access adapted for the disabled, two elevators, outdoor parking and is located 100 meters from the sandy beaches.",
-                "propertyTitleFR": "Fantastic Apartment",
-                "propertyDescriptionFR": "Cet appartement a été entièrement rénové et est neuf, tout neuf.\n\nGrâce à son emplacement, il bénéficie d'une vue magnifique sur la mer, la plage de La Fosa à Calpe, et reçoit le soleil toute la journée.\n\nIl comprend une grande chambre, un salon avec une kitchenette, une salle de bains avec douche et une terrasse ensoleillée avec vue sur la mer et le Peñón de Ifach.\n\nLe bâtiment dispose d'un accès adapté pour les personnes handicapées, de deux ascenseurs, d'un parking extérieur et est situé à 100 mètres des plages de sable.",
-                "hasLift": true,
-                "isGroundFloor": null,
-                "isTopFloor": null,
-                "grossArea": 57.92,
-                "netArea": 57.00,
-                "totalBedrooms": 1,
-                "totalWC": 1,
-                "totalRooms": null,
-                "plotArea": null,
-                "totalHalfWC": null,
-                "totalParkingSpaces": 0,
-                "totalApartmentsPerFloor": null,
-                "constructionYear": 1974,
-                "floorCount": null,
-                "totalFloorsOfHouse": null,
-                "netAreaQualifiable": true,
-                "roomsQualifiable": true,
-                "wcQualifiable": true,
-                "isPrivateCondominium": true,
-                "hasSanitation": null,
-                "inLandSubdivision": null,
-                "landFormatFrontSize": null,
-                "landFormatBottomSize": null,
-                "observationsPublic": "El gasto de comunidad incluye el agua al no tener contador independiente.",
-                "address": {
-                    "streetName": "llentiscle",
-                    "buildingNumber": "4",
-                    "floorNumber": "D",
-                    "postalCode": "03710",
-                    "locality": "Playa de Fossa-Levante",
-                    "city": "Marina Alta",
-                    "latitude": 38.6501676,
-                    "longitude": 0.075854,
-                    "doorType": "Porta nº",
-                    "fullAddress": null,
-                    "addressLocationFullName": " Marina Alta,  Calpe,  Playa de Fossa-Levante"
-                },
-                "lifeStyleType": "Praia",
-                "viewType": "Mar",
-                "orientationType": "Sul/Nascente",
-                "energyPerformanceCertificateRating": "exempt",
-                "videoURL": null,
-                "virtualRealityCode": "https://castlefocus.s3.eu-west-2.amazonaws.com/HWR350541+/index.html",
-                "listingWebSiteMasterUrl": "https://www.century21.pt/ref/C0138-00001",
-                "propertyPhotoList": [
-                    {
-                        "orderNumber": 1,
-                        "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0866-copia_a07f82a5-4e99-4320-8206-ac8deff07ee8.jpg?w=1920&wat=1&org_if_sml=1"
-                    }
-                ],
-                "equipmentTypeList": [],
-                "surroundingTypeList": [
-                    {
-                        "name": "Supermercado",
-                        "place": "Supermarket",
-                        "distanceInMeters": 300
-                    },
-                    {
-                        "name": "Praia",
-                        "place": "Beach",
-                        "distanceInMeters": 50
-                    },
-                    {
-                        "name": "Supermercado",
-                        "place": "Supermarket",
-                        "distanceInMeters": 300
-                    }
-                ],
-                "roomTypeList": [],
-                "labels": {
-                    "dropPrice": false,
-                    "hidePrice": false,
-                    "fullyFinanced": false
-                },
-                "agent": {
-                    "id": "21a86cf6-2882-422a-ab90-59b8c704808e",
-                    "name": "Pablo Faelli Abiega",
-                    "emailAddress": "pablo.f@century21.es",
-                    "role": "Broker",
-                    "telephoneNumber": "",
-                    "photo": "https://cdn.21online.app/v7/_c21cdn_/agent-photo_562892e5-3250-4815-ace9-723108a63f3e.png",
-                    "mySiteUrl": "https://www.mysitec21.com/pablo-f",
-                    "agency": {
-                        "id": 6313,
-                        "name": "CENTURY 21 Evolution",
-                        "commercialName": "APF EVOLUTION S.L.",
-                        "licence": "0",
-                        "address": {
-                            "streetName": "Avenida Gabriel Miró",
-                            "buildingNumber": "14",
-                            "floorNumber": null,
-                            "postalCode": "03710",
-                            "locality": "Calpe",
-                            "city": "Alicante",
-                            "latitude": 38.6435072,
-                            "longitude": 0.0474966,
-                            "doorType": "DoorNumber",
-                            "fullAddress": null,
-                            "addressLocationFullName": "España, Alicante, Marina Alta, Calpe, Calpe, Calpe Pueblo"
-                        },
-                        "emailAddress": "evolution@century21.es",
-                        "telephoneNumber": "0",
-                        "logo": "https://cdn.21online.app/v7/_c21cdn_/logo-evolution_80d026f2-fbf7-4c8a-9aba-a42fac02c76f.png"
-                    }
-                },
-                "externalPortals": [
-                    "Idealista",
-                    "Global",
-                    "Trovit",
-                    "Yaencontre",
-                    "GreenAcres",
-                    "MLS España"
-                ]
-            },
-            {
-                "prospectSellerId": 2301976,
-                "prospectStatus": "Cliente",
-                "propertyId": 2886247,
-                "contractNumber": "C0138-00001",
-                "price": 155000.0,
-                "businessType": "Venda",
-                "propertyType": "Apartamento",
-                "propertySubType": "Andar",
-                "propertyTitlePT": null,
-                "propertyDescriptionPT": null,
-                "propertyTitleES": "Fantástico apartamento con vistas panorámicas",
-                "propertyDescriptionES": "Este apartamento ha sido reformado integralmente y se encuentra nuevo, a estrenar. Gracias a la localización disfruta de unas magníficas vistas al mar, a la playa de la Fosa en Calpe, y recibe el sol durante todo el día. \n\nCuenta con un amplio dormitorio, un salón con cocina americana, un cuarto de baño con ducha  y una soleada terraza con vistas al mar y  al Peñón de Ifach. \n\nEl edificio cuenta con acceso adaptado para discapacitados, dos ascensores, parking exterior y se encuentra a 100 metros de las playas de arena. ",
-                "propertyTitleEN": "Fantastic apartment with panoramic views",
-                "propertyDescriptionEN": "This apartment has been completely renovated and is new, brand new.\n\nThanks to its location, it enjoys magnificent views of the sea, La Fosa beach in Calpe, and receives the sun throughout the day.\n\nIt has a large bedroom, a living room with a kitchenette, a bathroom with a shower and a sunny terrace with views of the sea and the Peñón de Ifach.\n\nThe building has access adapted for the disabled, two elevators, outdoor parking and is located 100 meters from the sandy beaches.",
-                "propertyTitleFR": "Fantastic Apartment",
-                "propertyDescriptionFR": "Cet appartement a été entièrement rénové et est neuf, tout neuf.\n\nGrâce à son emplacement, il bénéficie d'une vue magnifique sur la mer, la plage de La Fosa à Calpe, et reçoit le soleil toute la journée.\n\nIl comprend une grande chambre, un salon avec une kitchenette, une salle de bains avec douche et une terrasse ensoleillée avec vue sur la mer et le Peñón de Ifach.\n\nLe bâtiment dispose d'un accès adapté pour les personnes handicapées, de deux ascenseurs, d'un parking extérieur et est situé à 100 mètres des plages de sable.",
-                "hasLift": true,
-                "isGroundFloor": null,
-                "isTopFloor": null,
-                "grossArea": 57.00,
-                "netArea": 57.00,
-                "totalBedrooms": 1,
-                "totalWC": 1,
-                "totalRooms": null,
-                "plotArea": null,
-                "totalHalfWC": null,
-                "totalParkingSpaces": 0,
-                "totalApartmentsPerFloor": null,
-                "constructionYear": 1974,
-                "floorCount": null,
-                "totalFloorsOfHouse": null,
-                "netAreaQualifiable": true,
-                "roomsQualifiable": true,
-                "wcQualifiable": true,
-                "isPrivateCondominium": true,
-                "hasSanitation": null,
-                "inLandSubdivision": null,
-                "landFormatFrontSize": null,
-                "landFormatBottomSize": null,
-                "observationsPublic": "El gasto de comunidad incluye el agua al no tener contador independiente.",
-                "address": {
-                    "streetName": "llentiscle",
-                    "buildingNumber": "4",
-                    "floorNumber": "D",
-                    "postalCode": "03710",
-                    "locality": "Playa de Fossa-Levante",
-                    "city": "Marina Alta",
-                    "latitude": 38.6501676,
-                    "longitude": 0.075854,
-                    "doorType": "Porta nº",
-                    "fullAddress": null,
-                    "addressLocationFullName": " Marina Alta,  Calpe,  Playa de Fossa-Levante"
-                },
-                "lifeStyleType": "Praia",
-                "viewType": "Mar",
-                "orientationType": "Sul/Nascente",
-                "energyPerformanceCertificateRating": null,
-                "videoURL": null,
-                "virtualRealityCode": "https://castlefocus.s3.eu-west-2.amazonaws.com/HWR350541+/index.html",
-                "listingWebSiteMasterUrl": "https://www.century21.pt/ref/C0138-00001",
-                "propertyPhotoList": [
-                    {
-                        "orderNumber": 1,
-                        "fileName": "https://cdn.21online.app/v7/_c21cdn_/img-0866-copia_a07f82a5-4e99-4320-8206-ac8deff07ee8.jpg?w=1920&wat=1&org_if_sml=1"
-                    }
-                ],
-                "equipmentTypeList": [],
-                "surroundingTypeList": [
-                    {
-                        "name": "Supermercado",
-                        "place": "Supermarket",
-                        "distanceInMeters": 300
-                    },
-                    {
-                        "name": "Praia",
-                        "place": "Beach",
-                        "distanceInMeters": 50
-                    },
-                    {
-                        "name": "Supermercado",
-                        "place": "Supermarket",
-                        "distanceInMeters": 300
-                    }
-                ],
-                "roomTypeList": [],
-                "labels": {
-                    "dropPrice": false,
-                    "hidePrice": false,
-                    "fullyFinanced": false
-                },
-                "agent": {
-                    "id": "21a86cf6-2882-422a-ab90-59b8c704808e",
-                    "name": "Pablo Faelli Abiega",
-                    "emailAddress": "pablo.f@century21.es",
-                    "role": "Broker",
-                    "telephoneNumber": "",
-                    "photo": "https://cdn.21online.app/v7/_c21cdn_/agent-photo_562892e5-3250-4815-ace9-723108a63f3e.png",
-                    "mySiteUrl": "https://www.mysitec21.com/pablo-f",
-                    "agency": {
-                        "id": 6313,
-                        "name": "CENTURY 21 Evolution",
-                        "commercialName": "APF EVOLUTION S.L.",
-                        "licence": "0",
-                        "address": {
-                            "streetName": "Avenida Gabriel Miró",
-                            "buildingNumber": "14",
-                            "floorNumber": null,
-                            "postalCode": "03710",
-                            "locality": "Calpe",
-                            "city": "Alicante",
-                            "latitude": 38.6435072,
-                            "longitude": 0.0474966,
-                            "doorType": "DoorNumber",
-                            "fullAddress": null,
-                            "addressLocationFullName": "España, Alicante, Marina Alta, Calpe, Calpe, Calpe Pueblo"
-                        },
-                        "emailAddress": "evolution@century21.es",
-                        "telephoneNumber": "0",
-                        "logo": "https://cdn.21online.app/v7/_c21cdn_/logo-evolution_80d026f2-fbf7-4c8a-9aba-a42fac02c76f.png"
-                    }
-                },
-                "externalPortals": [
-                    "Idealista",
-                    "Global",
-                    "Trovit",
-                    "Yaencontre",
-                    "GreenAcres",
-                    "MLS España"
-                ]
-            }
-        ]
-        }`;
-        return parseJsonToXML(source);
-    };
+const express = require('express');
+const fs = require('fs');
+const cors = require('cors');
+const app = express();
+const PORT = 8080;
+app.use(cors());
+app.locals.pretty = true;
+function readJSON(url, callback) {
+    fs.readFile(url, "utf8", function (err, result) {
+        if (err) callback(err);
+        callback(null, JSON.parse(result));
+    });
+}
+app.get('/data', (request, response) => {
+    const page = url.parse(request.url, true).query['pageIndex'];
+    let file = `data.json`;
+    if (Number(page) > 1) {
+        file = `data2.json`;
+    }
+    console.log(`/DATA PAGE: ${page}`);
+    response.set('Cache-Control', 'no-store');
+    readJSON(file, (err, nameContent) => {
+        if (err) {
+            response.status(500).send(err);
+            return;
+        }
+        response.send(nameContent);
+    })
+});
+app.get('/', async (request, response) => {
+    response.set('Cache-Control', 'no-store');
+    prod = url.parse(request.url, true).query['production'];
+    if (prod === undefined) prod = `true`;
+    let json = await fetchAllPages(prod);
+    response.writeHead(200, {
+        'Content-Type': 'application/xml'
+    });
+    json = JSON.stringify(json);
+    let xml = parseJsonToXML(json);
+    response.write(xml); //write a response to the client
+    response.end();
+
+});
+async function fetchAllPages(prod) {
+    const results = [];
+    let host = `http://127.0.0.1:8080/data?`;
+    if (prod === "true") {
+        host = `https://api.blendproducer.com/ListingWallet/v1/listing/v2/Wallet/GetWallet?Code=20B6764DB092406D98202C9EA9E79FBE&lang=en&pageSize=100&`;
+    }
+    let url = host + `pageIndex=1`;
     const config = {
         method: 'get',
-        url: 'https://api.blendproducer.com/ListingWallet/v1/listing/v2/Wallet/GetWallet?Code=20B6764DB092406D98202C9EA9E79FBE&lang=en',
+        url: url,
         headers: {
             'Ocp-Apim-Subscription-Key': 'd8f37f5ef7dc4d27b98be6cdaa5c265c',
             'Locale': 'en',
             'Accept-Language': 'en-US,en;'
         }
     };
-    const ax = await axios(config);
-    return parseJsonToXML(JSON.stringify(ax.data));
-    // axios(config).then(function (response) {
-    //     console.log(`req sent`)
-    //     return parseJsonToXML(JSON.stringify(response.data));
-    // })
-    // .catch(function (error) {
-    //     console.log(error);
-    // });
-    // return parseJsonToXML(source);
-};
-function parseJsonToXML(source){
+    let i = 1;
+    do {
+        const ax = await axios(config);
+        const data = ax.data;
+        url = null;
+        if (Number(data.pageIndex) < Number(data.totalPages)) {
+            url = host + `pageIndex=` + (Number(data.pageIndex)+1);
+            console.log(url);
+        }
+        config.url = url;
+        results.push(...ax.data.items);
+    } while (url);
+    return results;
+}
+
+function parseJsonToXML(source) {
     source = source.replace(/\n\n/g, "\\n");
     let json = JSON.parse(source);
-    json = json.items;
+    // return;
+    // json = json.items;
     const dt = new Date();
     const padL = (nr, len = 2, chr = `0`) => `${nr}`.padStart(2, chr);
     const updatedProducts = json.map(({
@@ -384,7 +162,7 @@ function parseJsonToXML(source){
                     parentEle.ele(`plot`, value.plotArea);
                     break;
                 case `energy_rating`:
-                    if(value === `exempt`) {
+                    if (value === `exempt`) {
                         value = 'X';
                     }
                     parentEle.ele(`consumption`, value);
@@ -396,7 +174,7 @@ function parseJsonToXML(source){
                     let i = 0;
                     for (let image of value) {
                         i++;
-                        if(i < 50) {
+                        if (i < 50) {
                             parentEle.ele(`image`, {
                                 id: image.orderNumber
                             }).ele(`url`, image.fileName.split("?")[0]);
@@ -417,16 +195,6 @@ function parseJsonToXML(source){
     });
     return xml;
 }
-
-http.createServer(async function (req, res) {
-    prod = url.parse(req.url, true).query['production'];
-    console.log(prod);
-    if (!prod) return;
-    const xml = await start(prod);
-    console.log(xml);
-    res.writeHead(200, {
-        'Content-Type': 'application/xml'
-    });
-    res.write(xml); //write a response to the client
-    res.end(); //end the response
-}).listen(8080);
+app.listen(PORT, function () {
+    console.log(`App is running: http://localhost:${PORT}/`);
+})
