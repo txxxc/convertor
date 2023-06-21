@@ -17,10 +17,7 @@ function readJSON(url, callback) {
 }
 app.get('/data', (request, response) => {
     const page = url.parse(request.url, true).query['pageIndex'];
-    let file = `data.json`;
-    if (Number(page) > 1) {
-        file = `data2.json`;
-    }
+    let file = `data${page}.json`;
     console.log(`/DATA PAGE: ${page}`);
     response.set('Cache-Control', 'no-store');
     readJSON(file, (err, nameContent) => {
@@ -152,6 +149,14 @@ function parseJsonToXML(source) {
                     //if(equals(item()?['businessType'], 'For Sale'), 'sale', 'month')
                     parentEle.txt(value);
                     break;
+                case `price`:
+                    console.log(value);
+                    if(value === null) {
+                        parentEle.txt(`x`);
+                    } else {
+                        parentEle.txt(value);
+                    }
+                    break;
                 case `desc`:
                     parentEle.ele(`es`, value.propertyDescriptionES);
                     parentEle.ele(`en`, value.propertyDescriptionEN);
@@ -165,7 +170,9 @@ function parseJsonToXML(source) {
                     if (value === `exempt`) {
                         value = 'X';
                     }
-                    parentEle.ele(`consumption`, value);
+                    if (value !== `unknown`) {
+                        parentEle.ele(`consumption`, value);
+                    }
                     break;
                 case `url`:
                     parentEle.ele(`es`, value);
@@ -175,9 +182,16 @@ function parseJsonToXML(source) {
                     for (let image of value) {
                         i++;
                         if (i < 50) {
-                            parentEle.ele(`image`, {
-                                id: image.orderNumber
-                            }).ele(`url`, image.fileName.split("?")[0]);
+                            let imageFileName = image.fileName.split("?")[0];
+                            if(imageFileName.match(/^.*\.(gif|jpe?g|png|GIF|JPE?G|PNG)$/)) {
+                                parentEle.ele(`image`, {
+                                    id: image.orderNumber
+                                }).ele(`url`, imageFileName);
+                            } else {
+                                //console.log(imageFileName);
+                                //console.error(`WRONG FORMAT!!!`);
+                            }
+                            
                         }
                     }
                     break;
