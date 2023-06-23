@@ -62,7 +62,7 @@ async function fetchAllPages(prod) {
     do {
         const ax = await axios(config);
         const data = ax.data;
-        console.log(data.errors[0]);
+   
         url = null;
         if (Number(data.pageIndex) < Number(data.totalPages)) {
             url = host + `pageIndex=` + (Number(data.pageIndex)+1);
