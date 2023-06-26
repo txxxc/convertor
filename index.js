@@ -18,7 +18,7 @@ function readJSON(url, callback) {
 }
 
 function writeJSON(data, filename) {
-    fs.writeFile(`tmp/${filename}`, data, (err) => {
+    fs.writeFile(`/tmp/${filename}`, data, (err) => {
         if (err)
             console.log(err);
         else {
@@ -38,12 +38,12 @@ function getCurrentDate() {
 }
 
 function checkJSON(filename) {
-    fs.stat(`tmp/${filename}`, (err, stats) => {
+    fs.stat(`/tmp/${filename}`, (err, stats) => {
         if (err) return false;
         const currentDate = getCurrentDate();
         const lastUpdated = new Date(+Number(stats.mtimeMs.toFixed(0)));
         const lastUpdatedDate = [lastUpdated.getFullYear(), lastUpdated.getMonth() + 1, lastUpdated.getDate()].join('-');
-        console.log(`tmp/${filename}`);
+        console.log(`/tmp/${filename}`);
         return currentDate === lastUpdatedDate;
     })
 }
@@ -69,7 +69,7 @@ app.get('/', async (request, response) => {
     let filename = prod === `true` ? `production.xml` : `mockdata.xml`;
     console.log(filename);
     let xml;
-    fs.stat(`tmp/${filename}`, async (err, stats) => {
+    fs.stat(`/tmp/${filename}`, async (err, stats) => {
         if (err) {
             console.log(`Fetching new data!`);
             let json = await fetchAllPages(prod);
@@ -85,7 +85,7 @@ app.get('/', async (request, response) => {
         const lastUpdatedDate = [lastUpdated.getFullYear(), lastUpdated.getMonth() + 1, lastUpdated.getDate()].join('-');
         if (currentDate === lastUpdatedDate) {
             console.log(`Re-using old data!`);
-            fs.readFile(`tmp/${filename}`, "utf8", function (err, result) {
+            fs.readFile(`/tmp/${filename}`, "utf8", function (err, result) {
                 if (err) {
                     response.status(500).send(err);
                     return;
