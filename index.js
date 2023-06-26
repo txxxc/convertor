@@ -66,11 +66,20 @@ app.get('/', async (request, response) => {
     });
     prod = url.parse(request.url, true).query['production'];
     if (prod === undefined) prod = `true`;
-    let filename = prod === true ? `production.xml` : `mockdata.xml`;
+    let filename = prod === `true` ? `production.xml` : `mockdata.xml`;
+    console.log(filename);
     let xml;
-
     fs.stat(`tmp/${filename}`, async (err, stats) => {
-        if (err) return false;
+        if (err) {
+            console.log(`Fetching new data!`);
+            let json = await fetchAllPages(prod);
+            json = JSON.stringify(json);
+            xml = parseJsonToXML(json);
+            writeJSON(xml, filename);
+            response.write(xml);
+            response.end();
+            return;
+        }
         const currentDate = getCurrentDate();
         const lastUpdated = new Date(+Number(stats.mtimeMs.toFixed(0)));
         const lastUpdatedDate = [lastUpdated.getFullYear(), lastUpdated.getMonth() + 1, lastUpdated.getDate()].join('-');
