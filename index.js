@@ -9,16 +9,47 @@ const app = express();
 const PORT = 8080;
 app.use(cors());
 app.locals.pretty = true;
+
 function readJSON(url, callback) {
     fs.readFile(url, "utf8", function (err, result) {
         if (err) callback(err);
         callback(null, JSON.parse(result));
     });
 }
+
+function writeJSON(data, filename) {
+    fs.writeFile(`tmp/${filename}`, data, (err) => {
+        if (err)
+            console.log(err);
+        else {
+            console.log("File written successfully\n");
+            //console.log(fs.readFileSync(filename, "utf8"));
+        }
+    });
+}
+
+function getCurrentDate() {
+    const date = new Date();
+    const year = date.getFullYear();
+    const month = date.getMonth() + 1;
+    const day = date.getDate();
+    const withHyphens = [year, month, day].join('-');
+    return withHyphens;
+}
+
+function checkJSON(filename) {
+    fs.stat(`tmp/${filename}`, (err, stats) => {
+        if (err) return false;
+        const currentDate = getCurrentDate();
+        const lastUpdated = new Date(+Number(stats.mtimeMs.toFixed(0)));
+        const lastUpdatedDate = [lastUpdated.getFullYear(), lastUpdated.getMonth() + 1, lastUpdated.getDate()].join('-');
+        console.log(`tmp/${filename}`);
+        return currentDate === lastUpdatedDate;
+    })
+}
 app.get('/data', (request, response) => {
     const page = url.parse(request.url, true).query['pageIndex'];
     let file = `data${page}.json`;
-    console.log(`/DATA PAGE: ${page}`);
     response.set('Cache-Control', 'no-store');
     readJSON(file, (err, nameContent) => {
         if (err) {
@@ -30,17 +61,41 @@ app.get('/data', (request, response) => {
 });
 app.get('/', async (request, response) => {
     response.set('Cache-Control', 'no-store');
-    prod = url.parse(request.url, true).query['production'];
-    if (prod === undefined) prod = `true`;
-    let json = await fetchAllPages(prod);
-    console.log(json);
     response.writeHead(200, {
         'Content-Type': 'application/xml'
     });
-    json = JSON.stringify(json);
-    let xml = parseJsonToXML(json);
-    response.write(xml); //write a response to the client
-    response.end();
+    prod = url.parse(request.url, true).query['production'];
+    if (prod === undefined) prod = `true`;
+    let filename = prod === true ? `production.xml` : `mockdata.xml`;
+    let xml;
+
+    fs.stat(`tmp/${filename}`, async (err, stats) => {
+        if (err) return false;
+        const currentDate = getCurrentDate();
+        const lastUpdated = new Date(+Number(stats.mtimeMs.toFixed(0)));
+        const lastUpdatedDate = [lastUpdated.getFullYear(), lastUpdated.getMonth() + 1, lastUpdated.getDate()].join('-');
+        if (currentDate === lastUpdatedDate) {
+            console.log(`Re-using old data!`);
+            fs.readFile(`tmp/${filename}`, "utf8", function (err, result) {
+                if (err) {
+                    response.status(500).send(err);
+                    return;
+                }
+                xml = result;
+                response.write(xml);
+                response.end();   
+            });
+        } else {
+            console.log(`Fetching new data!`);
+            let json = await fetchAllPages(prod);
+            json = JSON.stringify(json);
+            xml = parseJsonToXML(json);
+            writeJSON(xml, filename);
+            response.write(xml);
+            response.end();
+        }
+    })
+
 
 });
 async function fetchAllPages(prod) {
@@ -62,18 +117,15 @@ async function fetchAllPages(prod) {
     do {
         const ax = await axios(config);
         const data = ax.data;
-   
         url = null;
         if (Number(data.pageIndex) < Number(data.totalPages)) {
-            url = host + `pageIndex=` + (Number(data.pageIndex)+1);
+            url = host + `pageIndex=` + (Number(data.pageIndex) + 1);
             console.log(url);
         }
         config.url = url;
-        if(ax.data.items) {
+        if (ax.data.items) {
             results.push(...ax.data.items);
         }
-        
-
     } while (url);
     return results;
 }
@@ -117,7 +169,7 @@ function parseJsonToXML(source) {
         //new_build: 0,
         type,
         town: address.city,
-        province: address.locality,
+        province: "alicante",
         country: "spain",
         location: address,
         //location_detail: "optional location detail",
@@ -155,7 +207,7 @@ function parseJsonToXML(source) {
                     parentEle.txt(value);
                     break;
                 case `price`:
-                    if(value === null) {
+                    if (value === null) {
                         parentEle.txt(`x`);
                     } else {
                         parentEle.txt(value);
@@ -187,7 +239,7 @@ function parseJsonToXML(source) {
                         i++;
                         if (i < 50) {
                             let imageFileName = image.fileName.split("?")[0];
-                            if(imageFileName.match(/^.*\.(gif|jpe?g|png|GIF|JPE?G|PNG)$/)) {
+                            if (imageFileName.match(/^.*\.(gif|jpe?g|png|GIF|JPE?G|PNG)$/)) {
                                 parentEle.ele(`image`, {
                                     id: image.orderNumber
                                 }).ele(`url`, imageFileName);
@@ -195,7 +247,7 @@ function parseJsonToXML(source) {
                                 //console.log(imageFileName);
                                 //console.error(`WRONG FORMAT!!!`);
                             }
-                            
+
                         }
                     }
                     break;
