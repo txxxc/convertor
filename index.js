@@ -181,6 +181,8 @@ function parseJsonToXML(source) {
         province: "alicante",
         country: "spain",
         location: address,
+        altitud: address.longitude,
+        latitud: address.latitude,
         //location_detail: "optional location detail",
         beds,
         baths,
