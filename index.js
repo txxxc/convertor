@@ -182,6 +182,7 @@ function parseJsonToXML(source) {
         country: "spain",
         location: address,
         key_loca: address.postalCode,
+        cp: address.postalCode,
         calle: address.streetName,
         numero: address.buildingNumber,
         numplanta: address.floorNumber,
